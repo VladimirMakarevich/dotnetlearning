@@ -14,7 +14,44 @@
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "034f283d03d372bd"
+      },
+      {
+        "id": "f347781d2ee93d5e",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "dotnet/00 dotnet.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 2.649831527050738,
+              "close": false
+            }
+          }
+        },
+        "group": "034f283d03d372bd"
       },
       {
         "id": "f851e7503cd0c5ed",
@@ -181,14 +218,14 @@
   "active": "b5b8a250d01b8c4f",
   "lastOpenFiles": [
     "dotnet/00 dotnet.md",
+    "_templates/$0common_template.md",
+    "_templates/$1simple_note_template.md",
     "daily/06192022.md",
     "sandbox/PKM methodologies.md",
     "sandbox/learning/knowledge management.md",
     "sandbox/books/джедайские техники/метод спусковых крючков.md",
     "sandbox/books/джедайские техники/генерация спусковых крючков из разных источников.md",
     "_templates/$2daily_template.md",
-    "_templates/$1people_template.md",
-    "daily/00 daily notes.md",
-    "_templates/$3film_template.md"
+    "_templates/$1people_template.md"
   ]
 }

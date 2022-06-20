@@ -5,6 +5,14 @@
       "path": "dotnet/00 dotnet.md"
     },
     {
+      "basename": "$0common_template",
+      "path": "_templates/$0common_template.md"
+    },
+    {
+      "basename": "$1simple_note_template",
+      "path": "_templates/$1simple_note_template.md"
+    },
+    {
       "basename": "presentation NOTES",
       "path": "sandbox/notes/presentation NOTES.md"
     },
@@ -335,10 +343,6 @@
     {
       "basename": "$1people_template",
       "path": "_templates/$1people_template.md"
-    },
-    {
-      "basename": "$0common_template",
-      "path": "_templates/$0common_template.md"
     },
     {
       "basename": "it academy",

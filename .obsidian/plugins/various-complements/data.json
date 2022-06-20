@@ -43,14 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "обучение": {
-      "00 learning": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1653279909164
-        }
-      }
-    },
     "заметок": {
       "заметок": {
         "currentFile": {
@@ -438,6 +430,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1655740194952
+        }
+      }
+    },
+    "Intermediate": {
+      "Intermediate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1655746069405
         }
       }
     }

@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "dotnet course Intermediate",
+      "path": "dotnet/dotnet course Intermediate.md"
+    },
+    {
       "basename": "00 dotnet",
       "path": "dotnet/00 dotnet.md"
+    },
+    {
+      "basename": "$tags",
+      "path": "_utils/$tags.md"
+    },
+    {
+      "basename": "$helpers",
+      "path": "_utils/$helpers.md"
+    },
+    {
+      "basename": "$english_dictionary",
+      "path": "_utils/$english_dictionary.md"
+    },
+    {
+      "basename": "$admonition_dictionary",
+      "path": "_utils/$admonition_dictionary.md"
+    },
+    {
+      "basename": "@прокрастинация",
+      "path": "_checklists/@прокрастинация.md"
+    },
+    {
+      "basename": "@questions for thinking checklist",
+      "path": "_checklists/@questions for thinking checklist.md"
+    },
+    {
+      "basename": "@planning checklist",
+      "path": "_checklists/@planning checklist.md"
+    },
+    {
+      "basename": "@how to work with notes checklist",
+      "path": "_checklists/@how to work with notes checklist.md"
+    },
+    {
+      "basename": "@notes checklist",
+      "path": "_checklists/@notes checklist.md"
+    },
+    {
+      "basename": "Добавляй ссылки на источники идей",
+      "path": "_checklists/Добавляй ссылки на источники идей.md"
+    },
+    {
+      "basename": "Связывайте заметки друг с другом",
+      "path": "_checklists/Связывайте заметки друг с другом.md"
+    },
+    {
+      "basename": "Пиши заметки своими словами",
+      "path": "_checklists/Пиши заметки своими словами.md"
+    },
+    {
+      "basename": "Делайте заметки автономными",
+      "path": "_checklists/Делайте заметки автономными.md"
+    },
+    {
+      "basename": "Заметка должна быть атомарной",
+      "path": "_checklists/Заметка должна быть атомарной.md"
     },
     {
       "basename": "$0common_template",
@@ -77,24 +137,8 @@
       "path": "sandbox/notes/zero links.md"
     },
     {
-      "basename": "@questions for thinking checklist",
-      "path": "_checklists/@questions for thinking checklist.md"
-    },
-    {
       "basename": "правила работы с заметками",
       "path": "sandbox/notes/правила работы с заметками.md"
-    },
-    {
-      "basename": "@idea processing checklist",
-      "path": "_checklists/@idea processing checklist.md"
-    },
-    {
-      "basename": "@how to work with notes checklist",
-      "path": "_checklists/@how to work with notes checklist.md"
-    },
-    {
-      "basename": "$tags",
-      "path": "_utils/$tags.md"
     },
     {
       "basename": "При работе над конкретной темой - создайте карту",
@@ -255,62 +299,6 @@
     {
       "basename": "Глава 19. Прямо сейчас (Right Now)",
       "path": "tech/dotnet course/passionate programmer/Глава 19. Прямо сейчас (Right Now).md"
-    },
-    {
-      "basename": "@техника проработки эмоций agile life",
-      "path": "_checklists/@техника проработки эмоций agile life.md"
-    },
-    {
-      "basename": "@прокрастинация",
-      "path": "_checklists/@прокрастинация.md"
-    },
-    {
-      "basename": "@для жизни",
-      "path": "_checklists/@для жизни.md"
-    },
-    {
-      "basename": "@каждый вечер перед сном",
-      "path": "_checklists/@каждый вечер перед сном.md"
-    },
-    {
-      "basename": "@reflection of the day checklist",
-      "path": "_checklists/@reflection of the day checklist.md"
-    },
-    {
-      "basename": "@planning checklist",
-      "path": "_checklists/@planning checklist.md"
-    },
-    {
-      "basename": "@notes checklist",
-      "path": "_checklists/@notes checklist.md"
-    },
-    {
-      "basename": "@prepare the PR checklist",
-      "path": "_checklists/@prepare the PR checklist.md"
-    },
-    {
-      "basename": "@how to read books checklist",
-      "path": "_checklists/@how to read books checklist.md"
-    },
-    {
-      "basename": "$helpers",
-      "path": "_utils/$helpers.md"
-    },
-    {
-      "basename": "@grooming checklist",
-      "path": "_checklists/@grooming checklist.md"
-    },
-    {
-      "basename": "@food checklist",
-      "path": "_checklists/@food checklist.md"
-    },
-    {
-      "basename": "$english_dictionary",
-      "path": "_utils/$english_dictionary.md"
-    },
-    {
-      "basename": "$admonition_dictionary",
-      "path": "_utils/$admonition_dictionary.md"
     },
     {
       "basename": "$7book_template",

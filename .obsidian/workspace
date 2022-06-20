@@ -4,61 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b8a250d01b8c4f",
+        "id": "c1642202a11d6391",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotnet/00 dotnet.md",
+            "file": "dotnet/dotnet course Intermediate.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "034f283d03d372bd"
-      },
-      {
-        "id": "f347781d2ee93d5e",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "dotnet/00 dotnet.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 2.649831527050738,
-              "close": false
-            }
-          }
-        },
-        "group": "034f283d03d372bd"
-      },
-      {
-        "id": "f851e7503cd0c5ed",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -151,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/00 dotnet.md",
+                "file": "dotnet/dotnet course Intermediate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/00 dotnet.md"
+                "file": "dotnet/dotnet course Intermediate.md"
               }
             }
           },
@@ -197,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet/00 dotnet.md",
+                "file": "dotnet/dotnet course Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,17 +170,17 @@
     "width": 243.6999969482422,
     "collapsed": true
   },
-  "active": "b5b8a250d01b8c4f",
+  "active": "c1642202a11d6391",
   "lastOpenFiles": [
+    "dotnet/dotnet course Intermediate.md",
     "dotnet/00 dotnet.md",
-    "_templates/$0common_template.md",
-    "_templates/$1simple_note_template.md",
-    "daily/06192022.md",
-    "sandbox/PKM methodologies.md",
-    "sandbox/learning/knowledge management.md",
-    "sandbox/books/джедайские техники/метод спусковых крючков.md",
-    "sandbox/books/джедайские техники/генерация спусковых крючков из разных источников.md",
-    "_templates/$2daily_template.md",
-    "_templates/$1people_template.md"
+    "_utils/$tags.md",
+    "_utils/$helpers.md",
+    "_utils/$english_dictionary.md",
+    "_utils/$admonition_dictionary.md",
+    "_checklists/@прокрастинация.md",
+    "_checklists/@questions for thinking checklist.md",
+    "_checklists/@planning checklist.md",
+    "_checklists/@how to work with notes checklist.md"
   ]
 }

@@ -2,7 +2,7 @@
   "commitMessage": "dotnet_learning vault backup: {{date}}",
   "autoCommitMessage": "dotnet_learning vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 3,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,

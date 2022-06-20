@@ -1,0 +1,448 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "_utils/$admonition_dictionary.md\n\n_utils/$english_dictionary.md",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "обучение": {
+      "00 learning": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1653279909164
+        }
+      }
+    },
+    "заметок": {
+      "заметок": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1653367727485
+        }
+      }
+    },
+    "00 notes": {
+      "00 notes": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1653367747064
+        }
+      }
+    },
+    "Zettelkasten": {
+      "Zettelkasten": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1655737270205
+        }
+      }
+    },
+    "Obsidian": {
+      "Obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1653370180600
+        }
+      },
+      "00 obsidian": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1654675249694
+        }
+      }
+    },
+    "чеклист": {
+      "чеклист": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1653408883038
+        }
+      }
+    },
+    "00 obsidian": {
+      "00 obsidian": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1653454192715
+        }
+      }
+    },
+    "SQL": {
+      "SQL": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1653456014178
+        }
+      }
+    },
+    "Theory": {
+      "Theory": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1653562137096
+        }
+      }
+    },
+    "questions": {
+      "questions": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1653562164866
+        }
+      }
+    },
+    "meta-question": {
+      "meta-question": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1653562186840
+        }
+      }
+    },
+    "мышления": {
+      "мышления": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1653586333403
+        }
+      }
+    },
+    "etc": {
+      "etc": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1653586376081
+        }
+      }
+    },
+    "Sources": {
+      "Sources": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1653886601518
+        }
+      }
+    },
+    "пример ef core saving changes": {
+      "пример ef core saving changes": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654451643381
+        }
+      }
+    },
+    "twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1311080188298563584%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url": {
+      "twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1311080188298563584%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654525573065
+        }
+      }
+    },
+    "ужасная": {
+      "ужасная": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654664349237
+        }
+      }
+    },
+    "subject": {
+      "subject": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1654664992168
+        }
+      }
+    },
+    "zero links": {
+      "zero links": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654675113881
+        }
+      }
+    },
+    "evergreen notes": {
+      "evergreen notes": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1655737263317
+        }
+      }
+    },
+    "инструмента": {
+      "инструмента": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654675298023
+        }
+      }
+    },
+    "функции приложения sts": {
+      "функции приложения sts": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654675304648
+        }
+      }
+    },
+    "функции приложения obsidian": {
+      "функции приложения obsidian": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654675316953
+        }
+      }
+    },
+    "Заметка должна быть атомарной": {
+      "Заметка должна быть атомарной": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654675378145
+        }
+      }
+    },
+    "$notes checklist": {
+      "$notes checklist": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654675468569
+        }
+      }
+    },
+    "присутсвует": {
+      "присутсвует": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654700821654
+        }
+      }
+    },
+    "дисциплина": {
+      "дисциплина": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654702621104
+        }
+      }
+    },
+    "доминанта": {
+      "доминанта": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1654705819055
+        }
+      }
+    },
+    "Содержание —": {
+      "Содержание —": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654847900290
+        }
+      }
+    },
+    "виртуальность": {
+      "виртуальность": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1655290549298
+        }
+      }
+    },
+    "Массивы": {
+      "Массивы": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390327007
+        }
+      }
+    },
+    "объекты": {
+      "объекты": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390358007
+        }
+      }
+    },
+    "Лямбды": {
+      "Лямбды": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390416551
+        }
+      }
+    },
+    "Индексаторы": {
+      "Индексаторы": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390437249
+        }
+      }
+    },
+    "Сортировка": {
+      "Сортировка": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390508357
+        }
+      }
+    },
+    "XPath": {
+      "XPath": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390562155
+        }
+      }
+    },
+    "Процессы": {
+      "Процессы": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390569893
+        }
+      }
+    },
+    "приложений": {
+      "приложений": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390570878
+        }
+      }
+    },
+    "свойств": {
+      "свойств": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390599346
+        }
+      }
+    },
+    "свойства": {
+      "свойства": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390603591
+        }
+      }
+    },
+    "паттерн": {
+      "паттерн": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390609411
+        }
+      }
+    },
+    "паттерны": {
+      "паттерны": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390611765
+        }
+      }
+    },
+    "программирования": {
+      "программирования": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655390914057
+        }
+      }
+    },
+    "содержание": {
+      "содержание": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655393519568
+        }
+      }
+    },
+    "компаний": {
+      "компаний": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655397110466
+        }
+      }
+    },
+    "Monitoring": {
+      "Monitoring": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1655397887424
+        }
+      }
+    },
+    "Authorization": {
+      "Authorization": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1655398040393
+        }
+      }
+    },
+    "Cdna": {
+      "Cdna": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1655398107876
+        }
+      }
+    },
+    "мыслетопливо": {
+      "мыслетопливо": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1655740194952
+        }
+      }
+    }
+  },
+  "overwriteDuplicatedExistedPhrase": false,
+  "ignoreEnterKey": false,
+  "ignoreTabKey": false
+}

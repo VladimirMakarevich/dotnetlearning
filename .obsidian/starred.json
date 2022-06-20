@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "dotnet",
+      "path": "dotnet main.md"
+    },
+    {
+      "type": "file",
+      "title": "_reading aloud idea main",
+      "path": "startups/reading aloud app/00 reading aloud idea for application.md"
+    },
+    {
+      "type": "file",
+      "title": "notes presentation MW",
+      "path": "sandbox/notes/notes MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "06192022",
+      "path": "daily/06192022.md"
+    }
+  ]
+}

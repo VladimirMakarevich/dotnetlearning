@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b7581ee1acd16139",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5b8a250d01b8c4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dotnet/00 dotnet.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f851e7503cd0c5ed",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b63a00b568fb2640",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2d6dc9edbc4c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "348857340acb5b50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "198dc4a12aa6bb96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7283d725a33353da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f335acc5b997dc7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "right": {
+    "id": "b15b091db1a46663",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdaa76bee967349",
+        "type": "tabs",
+        "dimension": 54.4041450777202,
+        "children": [
+          {
+            "id": "0b3bed559cee3aa3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "511cfaaed2d43b0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf318b029d10ff05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dotnet/00 dotnet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ff2d031c12b2be8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc96681fb98a0141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dotnet/00 dotnet.md"
+              }
+            }
+          },
+          {
+            "id": "acec8c6e6eb5d40b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9a93b51cadf97a33",
+        "type": "tabs",
+        "dimension": 45.5958549222798,
+        "children": [
+          {
+            "id": "d722cf303bd99a6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dotnet/00 dotnet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.6999969482422,
+    "collapsed": true
+  },
+  "active": "b5b8a250d01b8c4f",
+  "lastOpenFiles": [
+    "dotnet/00 dotnet.md",
+    "daily/06192022.md",
+    "sandbox/PKM methodologies.md",
+    "sandbox/learning/knowledge management.md",
+    "sandbox/books/джедайские техники/метод спусковых крючков.md",
+    "sandbox/books/джедайские техники/генерация спусковых крючков из разных источников.md",
+    "_templates/$2daily_template.md",
+    "_templates/$1people_template.md",
+    "daily/00 daily notes.md",
+    "_templates/$3film_template.md"
+  ]
+}

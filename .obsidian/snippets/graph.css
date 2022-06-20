@@ -1,0 +1,39 @@
+.graph-view.color-fill {
+	color: #199be6;
+}
+
+.graph-view.color-line {
+	color: #26798c;
+}
+
+.graph-view.color-text {
+	color: #cccccc;
+}
+
+.graph-view.color-fill-highlight {
+	color: #c9ebff;
+	Opacity: 1;
+}
+
+.graph-view.color-line-highlight {
+	color: #5dbcd2;
+}
+
+
+
+.theme-dark .graph-view.color-fill-tag {
+	color: #1ddb0f;
+}
+
+.theme-dark .graph-view.color-fill-attachment {
+	color: #e3e310;
+}
+
+.theme-dark .graph-view.color-fill-unresolved {
+	color: #004e7a;
+	Opacity: 0.6;
+}
+
+.theme-dark .graph-view.color-arrow {
+	color: #d669bc;
+}

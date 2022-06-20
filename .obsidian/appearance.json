@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "graph",
+    "table",
+    "common"
+  ],
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "Calibri"
+}

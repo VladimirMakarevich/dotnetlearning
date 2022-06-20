@@ -1,0 +1,1902 @@
+{
+  "recentFiles": [
+    {
+      "basename": "00 dotnet",
+      "path": "dotnet/00 dotnet.md"
+    },
+    {
+      "basename": "presentation NOTES",
+      "path": "sandbox/notes/presentation NOTES.md"
+    },
+    {
+      "basename": "notes MOC",
+      "path": "sandbox/notes/notes MOC.md"
+    },
+    {
+      "basename": "существующая проблема с заметками",
+      "path": "sandbox/notes/существующая проблема с заметками.md"
+    },
+    {
+      "basename": "cognitive distortions",
+      "path": "sandbox/cognitive distortions.md"
+    },
+    {
+      "basename": "три столпа обучения",
+      "path": "sandbox/notes/три столпа обучения.md"
+    },
+    {
+      "basename": "польза письма и заметок",
+      "path": "sandbox/notes/польза письма и заметок.md"
+    },
+    {
+      "basename": "что дает нам письмо",
+      "path": "sandbox/notes/что дает нам письмо.md"
+    },
+    {
+      "basename": "почему заметки",
+      "path": "sandbox/notes/почему заметки.md"
+    },
+    {
+      "basename": "история письма и заметок",
+      "path": "sandbox/notes/история письма и заметок.md"
+    },
+    {
+      "basename": "работа с графом obsidian",
+      "path": "sandbox/notes/работа с графом obsidian.md"
+    },
+    {
+      "basename": "где можно использовать Obsidian",
+      "path": "sandbox/notes/где можно использовать Obsidian.md"
+    },
+    {
+      "basename": "06192022",
+      "path": "daily/06192022.md"
+    },
+    {
+      "basename": "какие есть недостатки и преимущества obsidian",
+      "path": "sandbox/notes/какие есть недостатки и преимущества obsidian.md"
+    },
+    {
+      "basename": "с чего начать картотеку",
+      "path": "sandbox/notes/с чего начать картотеку.md"
+    },
+    {
+      "basename": "кладбище мертвых заметок",
+      "path": "sandbox/notes/кладбище мертвых заметок.md"
+    },
+    {
+      "basename": "zero links",
+      "path": "sandbox/notes/zero links.md"
+    },
+    {
+      "basename": "@questions for thinking checklist",
+      "path": "_checklists/@questions for thinking checklist.md"
+    },
+    {
+      "basename": "правила работы с заметками",
+      "path": "sandbox/notes/правила работы с заметками.md"
+    },
+    {
+      "basename": "@idea processing checklist",
+      "path": "_checklists/@idea processing checklist.md"
+    },
+    {
+      "basename": "@how to work with notes checklist",
+      "path": "_checklists/@how to work with notes checklist.md"
+    },
+    {
+      "basename": "$tags",
+      "path": "_utils/$tags.md"
+    },
+    {
+      "basename": "При работе над конкретной темой - создайте карту",
+      "path": "sandbox/notes/При работе над конкретной темой - создайте карту.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "tech/Machine Learning.md"
+    },
+    {
+      "basename": "Nebular",
+      "path": "tech/Nebular.md"
+    },
+    {
+      "basename": "вознаграждение преподавателей",
+      "path": "startups/reading aloud app/вознаграждение преподавателей.md"
+    },
+    {
+      "basename": "rocketbook",
+      "path": "sandbox/notes/rocketbook.md"
+    },
+    {
+      "basename": "как подключиться к VM",
+      "path": "tech/как подключиться к VM.md"
+    },
+    {
+      "basename": "Пиши заметки своими словами",
+      "path": "sandbox/notes/Пиши заметки своими словами.md"
+    },
+    {
+      "basename": "список мыслей по reading aloud",
+      "path": "startups/reading aloud app/список мыслей по reading aloud.md"
+    },
+    {
+      "basename": "Делайте заметки автономными",
+      "path": "sandbox/notes/Делайте заметки автономными.md"
+    },
+    {
+      "basename": "Не удаляй устаревшие заметки",
+      "path": "sandbox/notes/Не удаляй устаревшие заметки.md"
+    },
+    {
+      "basename": "Связывайте заметки друг с другом",
+      "path": "sandbox/notes/Связывайте заметки друг с другом.md"
+    },
+    {
+      "basename": "план для реализации",
+      "path": "startups/reading aloud app/план для реализации.md"
+    },
+    {
+      "basename": "монетизация",
+      "path": "startups/монетизация.md"
+    },
+    {
+      "basename": "техническая спецификация",
+      "path": "startups/reading aloud app/техническая спецификация.md"
+    },
+    {
+      "basename": "как установить докер на ubuntu",
+      "path": "tech/как установить докер на ubuntu.md"
+    },
+    {
+      "basename": "пользователи приложения reading aloud",
+      "path": "startups/reading aloud app/пользователи приложения reading aloud.md"
+    },
+    {
+      "basename": "Объясняй связь между заметками",
+      "path": "sandbox/notes/Объясняй связь между заметками.md"
+    },
+    {
+      "basename": "Не беспокойтесь о структуре хранения",
+      "path": "sandbox/notes/Не беспокойтесь о структуре хранения.md"
+    },
+    {
+      "basename": "Добавляйте новые заметки без страха",
+      "path": "sandbox/notes/Добавляйте новые заметки без страха.md"
+    },
+    {
+      "basename": "Заметка должна быть атомарной",
+      "path": "sandbox/notes/Заметка должна быть атомарной.md"
+    },
+    {
+      "basename": "IoT Hub",
+      "path": "tech/IoT Hub.md"
+    },
+    {
+      "basename": "IoT Edge",
+      "path": "tech/IoT Edge.md"
+    },
+    {
+      "basename": "IdentityServer4",
+      "path": "tech/IdentityServer4.md"
+    },
+    {
+      "basename": "frontend aloud app",
+      "path": "startups/reading aloud app/frontend aloud app.md"
+    },
+    {
+      "basename": "Smart Factory",
+      "path": "tech/Smart Factory.md"
+    },
+    {
+      "basename": "kepserverex",
+      "path": "tech/kepserverex.md"
+    },
+    {
+      "basename": "devices",
+      "path": "tech/devices.md"
+    },
+    {
+      "basename": "frameworks industrial IoT",
+      "path": "tech/frameworks industrial IoT.md"
+    },
+    {
+      "basename": "docker commands",
+      "path": "tech/docker commands.md"
+    },
+    {
+      "basename": "data explorer",
+      "path": "tech/data explorer.md"
+    },
+    {
+      "basename": "cognitive services and speech recognition",
+      "path": "startups/reading aloud app/cognitive services and speech recognition.md"
+    },
+    {
+      "basename": "backend aloud app",
+      "path": "startups/reading aloud app/backend aloud app.md"
+    },
+    {
+      "basename": "Big Data",
+      "path": "tech/Big Data.md"
+    },
+    {
+      "basename": "00 azure",
+      "path": "tech/00 azure.md"
+    },
+    {
+      "basename": "00 automation (engineering)",
+      "path": "tech/00 automation (engineering).md"
+    },
+    {
+      "basename": "00 angular",
+      "path": "tech/00 angular.md"
+    },
+    {
+      "basename": "00 akveo",
+      "path": "tech/akveo/00 akveo.md"
+    },
+    {
+      "basename": "функции приложения reading aloud",
+      "path": "startups/reading aloud app/функции приложения reading aloud.md"
+    },
+    {
+      "basename": "Добавляй ссылки на источники идей",
+      "path": "sandbox/notes/Добавляй ссылки на источники идей.md"
+    },
+    {
+      "basename": "Глава 19. Прямо сейчас (Right Now)",
+      "path": "tech/dotnet course/passionate programmer/Глава 19. Прямо сейчас (Right Now).md"
+    },
+    {
+      "basename": "@техника проработки эмоций agile life",
+      "path": "_checklists/@техника проработки эмоций agile life.md"
+    },
+    {
+      "basename": "@прокрастинация",
+      "path": "_checklists/@прокрастинация.md"
+    },
+    {
+      "basename": "@для жизни",
+      "path": "_checklists/@для жизни.md"
+    },
+    {
+      "basename": "@каждый вечер перед сном",
+      "path": "_checklists/@каждый вечер перед сном.md"
+    },
+    {
+      "basename": "@reflection of the day checklist",
+      "path": "_checklists/@reflection of the day checklist.md"
+    },
+    {
+      "basename": "@planning checklist",
+      "path": "_checklists/@planning checklist.md"
+    },
+    {
+      "basename": "@notes checklist",
+      "path": "_checklists/@notes checklist.md"
+    },
+    {
+      "basename": "@prepare the PR checklist",
+      "path": "_checklists/@prepare the PR checklist.md"
+    },
+    {
+      "basename": "@how to read books checklist",
+      "path": "_checklists/@how to read books checklist.md"
+    },
+    {
+      "basename": "$helpers",
+      "path": "_utils/$helpers.md"
+    },
+    {
+      "basename": "@grooming checklist",
+      "path": "_checklists/@grooming checklist.md"
+    },
+    {
+      "basename": "@food checklist",
+      "path": "_checklists/@food checklist.md"
+    },
+    {
+      "basename": "$english_dictionary",
+      "path": "_utils/$english_dictionary.md"
+    },
+    {
+      "basename": "$admonition_dictionary",
+      "path": "_utils/$admonition_dictionary.md"
+    },
+    {
+      "basename": "$7book_template",
+      "path": "_templates/$7book_template.md"
+    },
+    {
+      "basename": "$6ADR_template",
+      "path": "_templates/$6ADR_template.md"
+    },
+    {
+      "basename": "$5simple_note_template",
+      "path": "_templates/$5simple_note_template.md"
+    },
+    {
+      "basename": "$4checklist_main_template",
+      "path": "_templates/$4checklist_main_template.md"
+    },
+    {
+      "basename": "$4checklist_item_template",
+      "path": "_templates/$4checklist_item_template.md"
+    },
+    {
+      "basename": "$3film_template",
+      "path": "_templates/$3film_template.md"
+    },
+    {
+      "basename": "$2daily_template",
+      "path": "_templates/$2daily_template.md"
+    },
+    {
+      "basename": "$1people_template",
+      "path": "_templates/$1people_template.md"
+    },
+    {
+      "basename": "$0common_template",
+      "path": "_templates/$0common_template.md"
+    },
+    {
+      "basename": "it academy",
+      "path": "tech/it academy.md"
+    },
+    {
+      "basename": "evergreen notes",
+      "path": "sandbox/notes/evergreen notes.md"
+    },
+    {
+      "basename": "00 apeiron",
+      "path": "sandbox/apeiron/00 apeiron.md"
+    },
+    {
+      "basename": "Augmenting Long-term Memory",
+      "path": "sandbox/Augmenting Long-term Memory.md"
+    },
+    {
+      "basename": "How can we develop transformative tools for thought",
+      "path": "sandbox/learning/How can we develop transformative tools for thought.md"
+    },
+    {
+      "basename": "Using spaced repetition systems to see through a piece of mathematics",
+      "path": "sandbox/learning/Using spaced repetition systems to see through a piece of mathematics.md"
+    },
+    {
+      "basename": "Spaced Repetition",
+      "path": "sandbox/learning/Spaced Repetition.md"
+    },
+    {
+      "basename": "PKM methodologies",
+      "path": "sandbox/PKM methodologies.md"
+    },
+    {
+      "basename": "00 notes",
+      "path": "sandbox/notes/00 notes.md"
+    },
+    {
+      "basename": "пользовательский флоу приложения sts",
+      "path": "startups/checklist/пользовательский флоу приложения sts.md"
+    },
+    {
+      "basename": "Цифровой сад",
+      "path": "sandbox/notes/Цифровой сад.md"
+    },
+    {
+      "basename": "картотека",
+      "path": "sandbox/notes/картотека.md"
+    },
+    {
+      "basename": "Second Brain",
+      "path": "sandbox/notes/Second Brain.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "sandbox/notes/Zettelkasten.md"
+    },
+    {
+      "basename": "00 learning",
+      "path": "sandbox/learning/00 learning.md"
+    },
+    {
+      "basename": "00 team lead",
+      "path": "tech/00 team lead.md"
+    },
+    {
+      "basename": "полезные продукты для желудка",
+      "path": "sandbox/health/полезные продукты для желудка.md"
+    },
+    {
+      "basename": "5 главных правил управления своей жизнью",
+      "path": "sandbox/5 главных правил управления своей жизнью.md"
+    },
+    {
+      "basename": "работа с сессиями в приложении sts",
+      "path": "startups/checklist/работа с сессиями в приложении sts.md"
+    },
+    {
+      "basename": "Глава 13. Найди ментора (Find A Mentor)",
+      "path": "tech/dotnet course/passionate programmer/Глава 13. Найди ментора (Find A Mentor).md"
+    },
+    {
+      "basename": "функции приложения obsidian",
+      "path": "sandbox/notes/функции приложения obsidian.md"
+    },
+    {
+      "basename": "мой опыт использования obsidian",
+      "path": "sandbox/notes/мой опыт использования obsidian.md"
+    },
+    {
+      "basename": "обзор инструмента obsidian",
+      "path": "sandbox/notes/обзор инструмента obsidian.md"
+    },
+    {
+      "basename": "знание и исследования",
+      "path": "sandbox/notes/знание и исследования.md"
+    },
+    {
+      "basename": "чем человек отличается от животного",
+      "path": "sandbox/чем человек отличается от животного.md"
+    },
+    {
+      "basename": "00 dotnet course",
+      "path": "tech/dotnet course/00 dotnet course.md"
+    },
+    {
+      "basename": "00 passionate programmer",
+      "path": "tech/dotnet course/passionate programmer/00 passionate programmer.md"
+    },
+    {
+      "basename": "00 dotnet overview",
+      "path": "tech/dotnet course/00 dotnet overview.md"
+    },
+    {
+      "basename": "Глава 1. Веди или умри (Lead or Bleed)",
+      "path": "tech/dotnet course/passionate programmer/Глава 1. Веди или умри (Lead or Bleed).md"
+    },
+    {
+      "basename": "Глава 4. Будь худшим (Be The Worst)",
+      "path": "tech/dotnet course/passionate programmer/Глава 4. Будь худшим (Be The Worst).md"
+    },
+    {
+      "basename": "00 architecture",
+      "path": "tech/dotnet course/00 architecture.md"
+    },
+    {
+      "basename": "knowledge management",
+      "path": "sandbox/learning/knowledge management.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "sandbox/notes/MOC.md"
+    },
+    {
+      "basename": "типы заметок",
+      "path": "sandbox/notes/типы заметок.md"
+    },
+    {
+      "basename": "00 book как делать полезные заметки",
+      "path": "sandbox/books/как делать полезные заметки/00 book как делать полезные заметки.md"
+    },
+    {
+      "basename": "чтобы фиксировать идеи всякий раз, когда они приходят вам в голову",
+      "path": "sandbox/books/как делать полезные заметки/чтобы фиксировать идеи всякий раз, когда они приходят вам в голову.md"
+    },
+    {
+      "basename": "Справочная картотека",
+      "path": "sandbox/books/как делать полезные заметки/Справочная картотека.md"
+    },
+    {
+      "basename": "может когда-то перерасти критическую массу и превратиться из простого набора заметок в генератор идей",
+      "path": "sandbox/books/как делать полезные заметки/может когда-то перерасти критическую массу и превратиться из простого набора заметок в генератор идей.md"
+    },
+    {
+      "basename": "time management",
+      "path": "sandbox/time management.md"
+    },
+    {
+      "basename": "лучше часто но мало, чем много но редко",
+      "path": "sandbox/learning/лучше часто но мало, чем много но редко.md"
+    },
+    {
+      "basename": "как находить мотивацию",
+      "path": "tech/как находить мотивацию.md"
+    },
+    {
+      "basename": "00 джедайские техники",
+      "path": "sandbox/books/джедайские техники/00 джедайские техники.md"
+    },
+    {
+      "basename": "знать как сделать, и сделать - в чем разница",
+      "path": "sandbox/знать как сделать, и сделать - в чем разница.md"
+    },
+    {
+      "basename": "Konspekt_12.02",
+      "path": "_attachments/Konspekt_12.02.pdf"
+    },
+    {
+      "basename": "подкасты телеграм канала zttl",
+      "path": "sandbox/notes/подкасты телеграм канала zttl.md"
+    },
+    {
+      "basename": "Писать следует красиво и вот почему",
+      "path": "sandbox/notes/Писать следует красиво и вот почему.md"
+    },
+    {
+      "basename": "Писать НЕ следует красиво и вот почему",
+      "path": "sandbox/notes/Писать НЕ следует красиво и вот почему.md"
+    },
+    {
+      "basename": "почему во время чтения мы не мыслим критически",
+      "path": "sandbox/почему во время чтения мы не мыслим критически.md"
+    },
+    {
+      "basename": "генерация спусковых крючков из разных источников",
+      "path": "sandbox/books/джедайские техники/генерация спусковых крючков из разных источников.md"
+    },
+    {
+      "basename": "вопросы для приложения sts",
+      "path": "startups/checklist/вопросы для приложения sts.md"
+    },
+    {
+      "basename": "принцип работы Лумана",
+      "path": "sandbox/books/как делать полезные заметки/принцип работы Лумана.md"
+    },
+    {
+      "basename": "obsidian note books (idea)",
+      "path": "sandbox/notes/obsidian note books (idea).md"
+    },
+    {
+      "basename": "идеи к приложению sts",
+      "path": "startups/checklist/идеи к приложению sts.md"
+    },
+    {
+      "basename": "древняя русь и россия",
+      "path": "sandbox/древняя русь и россия.md"
+    },
+    {
+      "basename": "книжный клуб",
+      "path": "sandbox/книжный клуб.md"
+    },
+    {
+      "basename": "00 common",
+      "path": "tech/dotnet course/00 common.md"
+    },
+    {
+      "basename": "00 docker",
+      "path": "tech/dotnet course/00 docker.md"
+    },
+    {
+      "basename": "00 clouds and azure",
+      "path": "tech/dotnet course/00 clouds and azure.md"
+    },
+    {
+      "basename": "00 security",
+      "path": "tech/dotnet course/00 security.md"
+    },
+    {
+      "basename": "Глава 31. Не паникуй (Don't Panic)",
+      "path": "tech/dotnet course/passionate programmer/Глава 31. Не паникуй (Don't Panic).md"
+    },
+    {
+      "basename": "Глава 3. Кодинг ещё не всё (Coding Doesn't Cut It Anymore)",
+      "path": "tech/dotnet course/passionate programmer/Глава 3. Кодинг ещё не всё (Coding Doesn't Cut It Anymore).md"
+    },
+    {
+      "basename": "Глава 2. Спрос и предложение (Supply and Demand)",
+      "path": "tech/dotnet course/passionate programmer/Глава 2. Спрос и предложение (Supply and Demand).md"
+    },
+    {
+      "basename": "Глава 23. Будь на своем месте (Be Where You're At)",
+      "path": "tech/dotnet course/passionate programmer/Глава 23. Будь на своем месте (Be Where You're At).md"
+    },
+    {
+      "basename": "Глава 22. Помни на кого работаешь (Remember Who You Work For)",
+      "path": "tech/dotnet course/passionate programmer/Глава 22. Помни на кого работаешь (Remember Who You Work For).md"
+    },
+    {
+      "basename": "Глава 21. Ежедневное достижение (Daily Hit)",
+      "path": "tech/dotnet course/passionate programmer/Глава 21. Ежедневное достижение (Daily Hit).md"
+    },
+    {
+      "basename": "Глава 18. Автоматизируй свою работу (Automate Yourself Into A Job)",
+      "path": "tech/dotnet course/passionate programmer/Глава 18. Автоматизируй свою работу (Automate Yourself Into A Job).md"
+    },
+    {
+      "basename": "Глава 14. Будь ментором (Be A Mentor)",
+      "path": "tech/dotnet course/passionate programmer/Глава 14. Будь ментором (Be A Mentor).md"
+    },
+    {
+      "basename": "Глава 9. Не кладите все свои яйца в чужую корзину (Don't Put All Your Eggs In Someone Else's Basket)",
+      "path": "tech/dotnet course/passionate programmer/Глава 9. Не кладите все свои яйца в чужую корзину (Don't Put All Your Eggs In Someone Else's Basket).md"
+    },
+    {
+      "basename": "Глава 10. Полюби это или брось (Love It Or Leave It)",
+      "path": "tech/dotnet course/passionate programmer/Глава 10. Полюби это или брось (Love It Or Leave It).md"
+    },
+    {
+      "basename": "Глава 8. Будь специалистом (Be A Specialist)",
+      "path": "tech/dotnet course/passionate programmer/Глава 8. Будь специалистом (Be A Specialist).md"
+    },
+    {
+      "basename": "Глава 6. Не слушай своих родителей (Don't Listen To Your Parents)",
+      "path": "tech/dotnet course/passionate programmer/Глава 6. Не слушай своих родителей (Don't Listen To Your Parents).md"
+    },
+    {
+      "basename": "Глава 5. Инвестируйте в свой интеллект (Invest in Your Own Intelligence)",
+      "path": "tech/dotnet course/passionate programmer/Глава 5. Инвестируйте в свой интеллект (Invest in Your Own Intelligence).md"
+    },
+    {
+      "basename": "Как я отказался от $300.000 — рассказ в конце 6-й главы",
+      "path": "tech/dotnet course/passionate programmer/Как я отказался от $300.000 — рассказ в конце 6-й главы.md"
+    },
+    {
+      "basename": "Введение",
+      "path": "tech/dotnet course/passionate programmer/Введение.md"
+    },
+    {
+      "basename": "Благодарности",
+      "path": "tech/dotnet course/passionate programmer/Благодарности.md"
+    },
+    {
+      "basename": "Вступительное слово",
+      "path": "tech/dotnet course/passionate programmer/Вступительное слово.md"
+    },
+    {
+      "basename": "00 blogs and articles",
+      "path": "tech/dotnet course/00 blogs and articles.md"
+    },
+    {
+      "basename": "00 frontend overview",
+      "path": "tech/dotnet course/00 frontend overview.md"
+    },
+    {
+      "basename": "00 interviews",
+      "path": "tech/dotnet course/00 interviews.md"
+    },
+    {
+      "basename": "00 how to take a notes",
+      "path": "tech/dotnet course/00 how to take a notes.md"
+    },
+    {
+      "basename": "00 patterns",
+      "path": "tech/dotnet course/00 patterns.md"
+    },
+    {
+      "basename": "00 how to learn",
+      "path": "tech/dotnet course/00 how to learn.md"
+    },
+    {
+      "basename": "00 sql",
+      "path": "tech/dotnet course/00 sql.md"
+    },
+    {
+      "basename": "00 git",
+      "path": "tech/dotnet course/00 git.md"
+    },
+    {
+      "basename": "00 agile and scrum",
+      "path": "tech/dotnet course/00 agile and scrum.md"
+    },
+    {
+      "basename": "00 best practices",
+      "path": "tech/dotnet course/00 best practices.md"
+    },
+    {
+      "basename": "00 tips and tricks",
+      "path": "tech/dotnet course/00 tips and tricks.md"
+    },
+    {
+      "basename": "00 dotnet",
+      "path": "tech/00 dotnet.md"
+    },
+    {
+      "basename": "безжалостность",
+      "path": "sandbox/безжалостность.md"
+    },
+    {
+      "basename": "виртуальность",
+      "path": "sandbox/виртуальность.md"
+    },
+    {
+      "basename": "вера и воля",
+      "path": "sandbox/вера и воля.md"
+    },
+    {
+      "basename": "действие и вера",
+      "path": "sandbox/действие и вера.md"
+    },
+    {
+      "basename": "00 obsidian",
+      "path": "sandbox/notes/00 obsidian.md"
+    },
+    {
+      "basename": "логос и диологос",
+      "path": "sandbox/логос и диологос.md"
+    },
+    {
+      "basename": "00 mentoring and learning",
+      "path": "startups/mentoring and learning/00 mentoring and learning.md"
+    },
+    {
+      "basename": "00 book поймать большую рыбу. медитация, осознанность и творчество",
+      "path": "sandbox/books/поймать большую рыбу/00 book поймать большую рыбу. медитация, осознанность и творчество.md"
+    },
+    {
+      "basename": "справедливость",
+      "path": "sandbox/справедливость.md"
+    },
+    {
+      "basename": "личная эффективность",
+      "path": "sandbox/личная эффективность.md"
+    },
+    {
+      "basename": "пишите заметки",
+      "path": "sandbox/learning/пишите заметки.md"
+    },
+    {
+      "basename": "комплекс для пищеварения",
+      "path": "sandbox/комплекс для пищеварения.md"
+    },
+    {
+      "basename": "11 правил здорового питания",
+      "path": "sandbox/11 правил здорового питания.md"
+    },
+    {
+      "basename": "Усталость — враг пищеварения",
+      "path": "sandbox/Усталость — враг пищеварения.md"
+    },
+    {
+      "basename": "Не ешьте, если вы не голодны",
+      "path": "sandbox/Не ешьте, если вы не голодны.md"
+    },
+    {
+      "basename": "На трапезу надо настраиваться",
+      "path": "sandbox/На трапезу надо настраиваться.md"
+    },
+    {
+      "basename": "Обходитесь без перекусов",
+      "path": "sandbox/Обходитесь без перекусов.md"
+    },
+    {
+      "basename": "Хорошо пережевано — наполовину переварено!",
+      "path": "sandbox/Хорошо пережевано — наполовину переварено!.md"
+    },
+    {
+      "basename": "Когда я ем, то глух и нем!",
+      "path": "sandbox/Когда я ем, то глух и нем!.md"
+    },
+    {
+      "basename": "Пейте много воды, но только не вовремя еды",
+      "path": "sandbox/Пейте много воды, но только не вовремя еды.md"
+    },
+    {
+      "basename": "Не ешьте вечером сырую растительную пищу",
+      "path": "sandbox/Не ешьте вечером сырую растительную пищу.md"
+    },
+    {
+      "basename": "Поздняя трапеза опасна для здоровья",
+      "path": "sandbox/Поздняя трапеза опасна для здоровья.md"
+    },
+    {
+      "basename": "Согласуйте трапезы с потребностями организма",
+      "path": "sandbox/Согласуйте трапезы с потребностями организма.md"
+    },
+    {
+      "basename": "Ощутив чувство сытости, заканчивайте трапезу!",
+      "path": "sandbox/Ощутив чувство сытости, заканчивайте трапезу!.md"
+    },
+    {
+      "basename": "микрофлора кишечника",
+      "path": "sandbox/микрофлора кишечника.md"
+    },
+    {
+      "basename": "как принимать препараты для пищеварения",
+      "path": "_attachments/как принимать препараты для пищеварения.png"
+    },
+    {
+      "basename": "мотивации от Екатерины Шульман",
+      "path": "sandbox/мотивации от Екатерины Шульман.md"
+    },
+    {
+      "basename": "00 как делать полезные заметки",
+      "path": "sandbox/books/как делать полезные заметки/00 как делать полезные заметки.md"
+    },
+    {
+      "basename": "Sebastian Komoda",
+      "path": "people/Sebastian Komoda.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "people/Untitled.md"
+    },
+    {
+      "basename": "открытое общество и его враги",
+      "path": "sandbox/books/открытое общество и его враги/открытое общество и его враги.md"
+    },
+    {
+      "basename": "17 Йоги",
+      "path": "sandbox/books/поймать большую рыбу/17 Йоги.md"
+    },
+    {
+      "basename": "16 Темп жизни",
+      "path": "sandbox/books/поймать большую рыбу/16 Темп жизни.md"
+    },
+    {
+      "basename": "15 «Голова-ластик»",
+      "path": "sandbox/books/поймать большую рыбу/15 «Голова-ластик».md"
+    },
+    {
+      "basename": "14 Удушающая резиновая клоунская маска",
+      "path": "sandbox/books/поймать большую рыбу/14 Удушающая резиновая клоунская маска.md"
+    },
+    {
+      "basename": "04 Жизнь в искусстве",
+      "path": "sandbox/books/поймать большую рыбу/04 Жизнь в искусстве.md"
+    },
+    {
+      "basename": "02 Первое погружение",
+      "path": "sandbox/books/поймать большую рыбу/02 Первое погружение.md"
+    },
+    {
+      "basename": "01 Идеи подобны рыбам",
+      "path": "sandbox/books/поймать большую рыбу/01 Идеи подобны рыбам.md"
+    },
+    {
+      "basename": "запомнить все. усвоение знаний без скуки и зубрежки",
+      "path": "sandbox/books/запомнить всё/запомнить все. усвоение знаний без скуки и зубрежки.md"
+    },
+    {
+      "basename": "искусство войны",
+      "path": "sandbox/books/Сунь Цзы Искусство войны/искусство войны.md"
+    },
+    {
+      "basename": "00 books",
+      "path": "sandbox/books/00 books.md"
+    },
+    {
+      "basename": "Denis Strigo",
+      "path": "people/Denis Strigo.md"
+    },
+    {
+      "basename": "тюрьма",
+      "path": "sandbox/тюрьма.md"
+    },
+    {
+      "basename": "проблемы европы",
+      "path": "sandbox/проблемы европы.md"
+    },
+    {
+      "basename": "самоконтроль и самодисциплина",
+      "path": "sandbox/books/как делать полезные заметки/самоконтроль и самодисциплина.md"
+    },
+    {
+      "basename": "Важно не то, кто вы, а то, что вы делаете",
+      "path": "sandbox/books/как делать полезные заметки/Важно не то, кто вы, а то, что вы делаете.md"
+    },
+    {
+      "basename": "как правильно закрыть дверь конюшни по официальным правилам",
+      "path": "sandbox/books/как делать полезные заметки/как правильно закрыть дверь конюшни по официальным правилам.md"
+    },
+    {
+      "basename": "Письмо играет такую центральную роль в познании",
+      "path": "sandbox/books/как делать полезные заметки/Письмо играет такую центральную роль в познании.md"
+    },
+    {
+      "basename": "ограничения заставляют мозг работать",
+      "path": "sandbox/books/поймать большую рыбу/ограничения заставляют мозг работать.md"
+    },
+    {
+      "basename": "53 Ограничения",
+      "path": "sandbox/books/поймать большую рыбу/53 Ограничения.md"
+    },
+    {
+      "basename": "страх чистого листа",
+      "path": "sandbox/books/как делать полезные заметки/страх чистого листа.md"
+    },
+    {
+      "basename": "проблема текста современного человека",
+      "path": "sandbox/books/как делать полезные заметки/проблема текста современного человека.md"
+    },
+    {
+      "basename": "метод спусковых крючков",
+      "path": "sandbox/books/джедайские техники/метод спусковых крючков.md"
+    },
+    {
+      "basename": "Christine Halavach",
+      "path": "people/Christine Halavach.md"
+    },
+    {
+      "basename": "Getting Things Done",
+      "path": "sandbox/Getting Things Done.md"
+    },
+    {
+      "basename": "метод getting things done",
+      "path": "_attachments/метод getting things done.png"
+    },
+    {
+      "basename": "шаг вперед, два назад, построение и разрушение, процесс творчества",
+      "path": "sandbox/шаг вперед, два назад, построение и разрушение, процесс творчества.md"
+    },
+    {
+      "basename": "процесс работы (написание книг) от Стивена Кинга",
+      "path": "sandbox/books/поймать большую рыбу/процесс работы (написание книг) от Стивена Кинга.md"
+    },
+    {
+      "basename": "3 Грамматика Simple",
+      "path": "sandbox/english/3 Грамматика Simple.md"
+    },
+    {
+      "basename": "Frequency 60 Hz",
+      "path": "sandbox/english/Frequency 60 Hz.md"
+    },
+    {
+      "basename": "00 реальный english. как подружиться с грамматикой",
+      "path": "sandbox/english/00 реальный english. как подружиться с грамматикой.md"
+    },
+    {
+      "basename": "учебник",
+      "path": "sandbox/учебник.md"
+    },
+    {
+      "basename": "Чем выше забираешься тем больнее падать",
+      "path": "sandbox/books/поймать большую рыбу/Чем выше забираешься тем больнее падать.md"
+    },
+    {
+      "basename": "2 Грамматика великая и ужасная",
+      "path": "sandbox/english/2 Грамматика великая и ужасная.md"
+    },
+    {
+      "basename": "1 В начале было слово",
+      "path": "sandbox/english/1 В начале было слово.md"
+    },
+    {
+      "basename": "Смотри на бублик, а не на дырку в нем",
+      "path": "sandbox/books/поймать большую рыбу/Смотри на бублик, а не на дырку в нем.md"
+    },
+    {
+      "basename": "00 english",
+      "path": "sandbox/english/00 english.md"
+    },
+    {
+      "basename": "принцип дыхания agile life",
+      "path": "sandbox/books/agile life/принцип дыхания agile life.md"
+    },
+    {
+      "basename": "Корпорация Мозг agile life",
+      "path": "sandbox/books/agile life/Корпорация Мозг agile life.md"
+    },
+    {
+      "basename": "Личная сфера agile life",
+      "path": "sandbox/books/agile life/Личная сфера agile life.md"
+    },
+    {
+      "basename": "Карьерная сфера agile life",
+      "path": "sandbox/books/agile life/Карьерная сфера agile life.md"
+    },
+    {
+      "basename": "00 agile life book",
+      "path": "sandbox/books/agile life/00 agile life book.md"
+    },
+    {
+      "basename": "13 Лос-Анджелес",
+      "path": "sandbox/books/поймать большую рыбу/13 Лос-Анджелес.md"
+    },
+    {
+      "basename": "79 Удача и провал",
+      "path": "sandbox/books/поймать большую рыбу/79 Удача и провал.md"
+    },
+    {
+      "basename": "процесс действия и противодействия",
+      "path": "sandbox/books/поймать большую рыбу/процесс действия и противодействия.md"
+    },
+    {
+      "basename": "Если хочешь как следует порисовать часок, выдели на это четыре часа",
+      "path": "sandbox/books/поймать большую рыбу/Если хочешь как следует порисовать часок, выдели на это четыре часа.md"
+    },
+    {
+      "basename": "44 Страдание",
+      "path": "sandbox/books/поймать большую рыбу/44 Страдание.md"
+    },
+    {
+      "basename": "83 Настоящий покой",
+      "path": "sandbox/books/поймать большую рыбу/83 Настоящий покой.md"
+    },
+    {
+      "basename": "85 Дополнительная глава",
+      "path": "sandbox/books/поймать большую рыбу/85 Дополнительная глава.md"
+    },
+    {
+      "basename": "82 Образование, несущее свет осознанности",
+      "path": "sandbox/books/поймать большую рыбу/82 Образование, несущее свет осознанности.md"
+    },
+    {
+      "basename": "81 Сострадание",
+      "path": "sandbox/books/поймать большую рыбу/81 Сострадание.md"
+    },
+    {
+      "basename": "80 И снова на рыбную ловлю",
+      "path": "sandbox/books/поймать большую рыбу/80 И снова на рыбную ловлю.md"
+    },
+    {
+      "basename": "78 Продолжайте",
+      "path": "sandbox/books/поймать большую рыбу/78 Продолжайте.md"
+    },
+    {
+      "basename": "77 Сон",
+      "path": "sandbox/books/поймать большую рыбу/77 Сон.md"
+    },
+    {
+      "basename": "76 Совет",
+      "path": "sandbox/books/поймать большую рыбу/76 Совет.md"
+    },
+    {
+      "basename": "75 Здравый смысл",
+      "path": "sandbox/books/поймать большую рыбу/75 Здравый смысл.md"
+    },
+    {
+      "basename": "74 Будущее кинематографа",
+      "path": "sandbox/books/поймать большую рыбу/74 Будущее кинематографа.md"
+    },
+    {
+      "basename": "73 Качество цифровой съемки",
+      "path": "sandbox/books/поймать большую рыбу/73 Качество цифровой съемки.md"
+    },
+    {
+      "basename": "72 Цифровое видео для начинающих режиссеров",
+      "path": "sandbox/books/поймать большую рыбу/72 Цифровое видео для начинающих режиссеров.md"
+    },
+    {
+      "basename": "71 Смерть кино",
+      "path": "sandbox/books/поймать большую рыбу/71 Смерть кино.md"
+    },
+    {
+      "basename": "70 Режиссерские комментарии",
+      "path": "sandbox/books/поймать большую рыбу/70 Режиссерские комментарии.md"
+    },
+    {
+      "basename": "69 Новый способ работы",
+      "path": "sandbox/books/поймать большую рыбу/69 Новый способ работы.md"
+    },
+    {
+      "basename": "68 Название",
+      "path": "sandbox/books/поймать большую рыбу/68 Название.md"
+    },
+    {
+      "basename": "67 «ВНУТРЕННЯЯ ИМПЕРИЯ»",
+      "path": "sandbox/books/поймать большую рыбу/67 «ВНУТРЕННЯЯ ИМПЕРИЯ».md"
+    },
+    {
+      "basename": "66 Кубрик",
+      "path": "sandbox/books/поймать большую рыбу/66 Кубрик.md"
+    },
+    {
+      "basename": "65 Феллини",
+      "path": "sandbox/books/поймать большую рыбу/65 Феллини.md"
+    },
+    {
+      "basename": "64 Герои кино",
+      "path": "sandbox/books/поймать большую рыбу/64 Герои кино.md"
+    },
+    {
+      "basename": "63 «Простая история»",
+      "path": "sandbox/books/поймать большую рыбу/63 «Простая история».md"
+    },
+    {
+      "basename": "62 Освещение",
+      "path": "sandbox/books/поймать большую рыбу/62 Освещение.md"
+    },
+    {
+      "basename": "61 Огонь",
+      "path": "sandbox/books/поймать большую рыбу/61 Огонь.md"
+    },
+    {
+      "basename": "60 Подготовленная обстановка",
+      "path": "sandbox/books/поймать большую рыбу/60 Подготовленная обстановка.md"
+    },
+    {
+      "basename": "59 Работа с деревом",
+      "path": "sandbox/books/поймать большую рыбу/59 Работа с деревом.md"
+    },
+    {
+      "basename": "58 Текстура",
+      "path": "sandbox/books/поймать большую рыбу/58 Текстура.md"
+    },
+    {
+      "basename": "57 Красота",
+      "path": "sandbox/books/поймать большую рыбу/57 Красота.md"
+    },
+    {
+      "basename": "56 Чувство места",
+      "path": "sandbox/books/поймать большую рыбу/56 Чувство места.md"
+    },
+    {
+      "basename": "54 «Малхолланд Драйв»",
+      "path": "sandbox/books/поймать большую рыбу/54 «Малхолланд Драйв».md"
+    },
+    {
+      "basename": "52 «Шоссе в никуда»",
+      "path": "sandbox/books/поймать большую рыбу/52 «Шоссе в никуда».md"
+    },
+    {
+      "basename": "51 «Индустриальная симфония № 1»",
+      "path": "sandbox/books/поймать большую рыбу/51 «Индустриальная симфония № 1».md"
+    },
+    {
+      "basename": "50 Включите свет!",
+      "path": "sandbox/books/поймать большую рыбу/50 Включите свет!.md"
+    },
+    {
+      "basename": "49 Наркотики",
+      "path": "sandbox/books/поймать большую рыбу/49 Наркотики.md"
+    },
+    {
+      "basename": "47 Религия",
+      "path": "sandbox/books/поймать большую рыбу/47 Религия.md"
+    },
+    {
+      "basename": "46 Золотая башня",
+      "path": "sandbox/books/поймать большую рыбу/46 Золотая башня.md"
+    },
+    {
+      "basename": "45 Внутренний свет",
+      "path": "sandbox/books/поймать большую рыбу/45 Внутренний свет.md"
+    },
+    {
+      "basename": "43 Мрак",
+      "path": "sandbox/books/поймать большую рыбу/43 Мрак.md"
+    },
+    {
+      "basename": "42 Обобщения",
+      "path": "sandbox/books/поймать большую рыбу/42 Обобщения.md"
+    },
+    {
+      "basename": "41 Пробный показ",
+      "path": "sandbox/books/поймать большую рыбу/41 Пробный показ.md"
+    },
+    {
+      "basename": "40 Спроси идею",
+      "path": "sandbox/books/поймать большую рыбу/40 Спроси идею.md"
+    },
+    {
+      "basename": "39 Красная комната",
+      "path": "sandbox/books/поймать большую рыбу/39 Красная комната.md"
+    },
+    {
+      "basename": "38 Истории с продолжением",
+      "path": "sandbox/books/поймать большую рыбу/38 Истории с продолжением.md"
+    },
+    {
+      "basename": "37 «Твин Пикс»",
+      "path": "sandbox/books/поймать большую рыбу/37 «Твин Пикс».md"
+    },
+    {
+      "basename": "36 А теперь — все вместе",
+      "path": "sandbox/books/поймать большую рыбу/36 А теперь — все вместе.md"
+    },
+    {
+      "basename": "35 Страх",
+      "path": "sandbox/books/поймать большую рыбу/35 Страх.md"
+    },
+    {
+      "basename": "34 Репетиция",
+      "path": "sandbox/books/поймать большую рыбу/34 Репетиция.md"
+    },
+    {
+      "basename": "33 Подбор актеров",
+      "path": "sandbox/books/поймать большую рыбу/33 Подбор актеров.md"
+    },
+    {
+      "basename": "32 Звук",
+      "path": "sandbox/books/поймать большую рыбу/32 Звук.md"
+    },
+    {
+      "basename": "31 Анджело Бадаламенти",
+      "path": "sandbox/books/поймать большую рыбу/31 Анджело Бадаламенти.md"
+    },
+    {
+      "basename": "30 Сновидения",
+      "path": "sandbox/books/поймать большую рыбу/30 Сновидения.md"
+    },
+    {
+      "basename": "29 Психотерапия",
+      "path": "sandbox/books/поймать большую рыбу/29 Психотерапия.md"
+    },
+    {
+      "basename": "28 Чистовой монтаж",
+      "path": "sandbox/books/поймать большую рыбу/28 Чистовой монтаж.md"
+    },
+    {
+      "basename": "27 Подлинность",
+      "path": "sandbox/books/поймать большую рыбу/27 Подлинность.md"
+    },
+    {
+      "basename": "26 Везде и всегда",
+      "path": "sandbox/books/поймать большую рыбу/26 Везде и всегда.md"
+    },
+    {
+      "basename": "25 Современная и древняя науки",
+      "path": "sandbox/books/поймать большую рыбу/25 Современная и древняя науки.md"
+    },
+    {
+      "basename": "24 Оказываясь там",
+      "path": "sandbox/books/поймать большую рыбу/24 Оказываясь там.md"
+    },
+    {
+      "basename": "23 Четвертое состояние сознания",
+      "path": "sandbox/books/поймать большую рыбу/23 Четвертое состояние сознания.md"
+    },
+    {
+      "basename": "22 Единое поле",
+      "path": "sandbox/books/поймать большую рыбу/22 Единое поле.md"
+    },
+    {
+      "basename": "21 Интуиция",
+      "path": "sandbox/books/поймать большую рыбу/21 Интуиция.md"
+    },
+    {
+      "basename": "20 Музыка",
+      "path": "sandbox/books/поймать большую рыбу/20 Музыка.md"
+    },
+    {
+      "basename": "19 Самая злая собака на свете",
+      "path": "sandbox/books/поймать большую рыбу/19 Самая злая собака на свете.md"
+    },
+    {
+      "basename": "18 Ресторан Bob’s Big Boy",
+      "path": "sandbox/books/поймать большую рыбу/18 Ресторан Bob’s Big Boy.md"
+    },
+    {
+      "basename": "12 Переводя идеи",
+      "path": "sandbox/books/поймать большую рыбу/12 Переводя идеи.md"
+    },
+    {
+      "basename": "11 Сознание",
+      "path": "sandbox/books/поймать большую рыбу/11 Сознание.md"
+    },
+    {
+      "basename": "10 Желание",
+      "path": "sandbox/books/поймать большую рыбу/10 Желание.md"
+    },
+    {
+      "basename": "09 Идеи",
+      "path": "sandbox/books/поймать большую рыбу/09 Идеи.md"
+    },
+    {
+      "basename": "08 Взаимосвязь",
+      "path": "sandbox/books/поймать большую рыбу/08 Взаимосвязь.md"
+    },
+    {
+      "basename": "07 Интерпретация",
+      "path": "sandbox/books/поймать большую рыбу/07 Интерпретация.md"
+    },
+    {
+      "basename": "06 Занавес открывается!",
+      "path": "sandbox/books/поймать большую рыбу/06 Занавес открывается!.md"
+    },
+    {
+      "basename": "05 Ночной сад",
+      "path": "sandbox/books/поймать большую рыбу/05 Ночной сад.md"
+    },
+    {
+      "basename": "03 Начало",
+      "path": "sandbox/books/поймать большую рыбу/03 Начало.md"
+    },
+    {
+      "basename": "00 искуство войны",
+      "path": "sandbox/books/Сунь Цзы Искусство войны/00 искуство войны.md"
+    },
+    {
+      "basename": "потеря людей в командах",
+      "path": "tech/потеря людей в командах.md"
+    },
+    {
+      "basename": "digital_garden_growth-leaves_gtdalf",
+      "path": "_attachments/digital_garden_growth-leaves_gtdalf.webp"
+    },
+    {
+      "basename": "раннее пробуждение",
+      "path": "sandbox/раннее пробуждение.md"
+    },
+    {
+      "basename": "как правильно читать",
+      "path": "sandbox/как правильно читать.md"
+    },
+    {
+      "basename": "ведение блога",
+      "path": "sandbox/ведение блога.md"
+    },
+    {
+      "basename": "второй мозг (книга)",
+      "path": "sandbox/второй мозг (книга).md"
+    },
+    {
+      "basename": "00 IIoT",
+      "path": "tech/00 IIoT.md"
+    },
+    {
+      "basename": "люди и заметки",
+      "path": "sandbox/люди и заметки.md"
+    },
+    {
+      "basename": "сон",
+      "path": "sandbox/сон.md"
+    },
+    {
+      "basename": "все очень просто",
+      "path": "sandbox/все очень просто.md"
+    },
+    {
+      "basename": "бредогенерация",
+      "path": "sandbox/бредогенерация.md"
+    },
+    {
+      "basename": "успех - это секс информации и действия",
+      "path": "sandbox/успех - это секс информации и действия.md"
+    },
+    {
+      "basename": "00 reading aloud idea for application",
+      "path": "startups/reading aloud app/00 reading aloud idea for application.md"
+    },
+    {
+      "basename": "Стресс",
+      "path": "sandbox/Стресс.md"
+    },
+    {
+      "basename": "стратегическое планирование от Максима Дорофеева",
+      "path": "sandbox/стратегическое планирование от Максима Дорофеева.md"
+    },
+    {
+      "basename": "продуктивность",
+      "path": "sandbox/продуктивность.md"
+    },
+    {
+      "basename": "продуктивность и эффективность",
+      "path": "sandbox/продуктивность и эффективность.md"
+    },
+    {
+      "basename": "магний перед сном",
+      "path": "sandbox/магний перед сном.md"
+    },
+    {
+      "basename": "как улучшить работу мозга",
+      "path": "sandbox/как улучшить работу мозга.md"
+    },
+    {
+      "basename": "Наведение порядка в расписании agile life",
+      "path": "sandbox/books/agile life/Наведение порядка в расписании agile life.md"
+    },
+    {
+      "basename": "time management от Google",
+      "path": "sandbox/time management от Google.md"
+    },
+    {
+      "basename": "energy management",
+      "path": "sandbox/energy management.md"
+    },
+    {
+      "basename": "BDNF нейротрофический фактор мозга",
+      "path": "sandbox/BDNF нейротрофический фактор мозга.md"
+    },
+    {
+      "basename": "как учить языки эффективно (марафон)",
+      "path": "sandbox/english/как учить языки эффективно (марафон).md"
+    },
+    {
+      "basename": "Load env - 3. Calculate what demo environment can handle",
+      "path": "tech/pwc/Load env - 3. Calculate what demo environment can handle.md"
+    },
+    {
+      "basename": "OPC-UA security connection options",
+      "path": "tech/pwc/OPC-UA security connection options.md"
+    },
+    {
+      "basename": "00 systems thinking (simulator) application",
+      "path": "startups/checklist/00 systems thinking (simulator) application.md"
+    },
+    {
+      "basename": "00 bots assistant",
+      "path": "startups/bot assistant/00 bots assistant.md"
+    },
+    {
+      "basename": "00 cinema restaurant",
+      "path": "startups/cinema restaurant/00 cinema restaurant.md"
+    },
+    {
+      "basename": "функции приложения sts",
+      "path": "startups/checklist/функции приложения sts.md"
+    },
+    {
+      "basename": "content sources sts",
+      "path": "startups/checklist/content sources sts.md"
+    },
+    {
+      "basename": "базовые категории карточек sts",
+      "path": "startups/checklist/базовые категории карточек sts.md"
+    },
+    {
+      "basename": "автоперевод контента sts",
+      "path": "startups/checklist/автоперевод контента sts.md"
+    },
+    {
+      "basename": "рейтинги колод и карточек sts",
+      "path": "startups/checklist/рейтинги колод и карточек sts.md"
+    },
+    {
+      "basename": "комментарии к карточкам и колодам sts",
+      "path": "startups/checklist/комментарии к карточкам и колодам sts.md"
+    },
+    {
+      "basename": "hotkeys для работы через браузер sts",
+      "path": "startups/checklist/hotkeys для работы через браузер sts.md"
+    },
+    {
+      "basename": "кастомизация карточек sts",
+      "path": "startups/checklist/кастомизация карточек sts.md"
+    },
+    {
+      "basename": "кастомизация стартовой страницы sts",
+      "path": "startups/checklist/кастомизация стартовой страницы sts.md"
+    },
+    {
+      "basename": "возможность показать одним списком (все вопросы) колоду sts",
+      "path": "startups/checklist/возможность показать одним списком (все вопросы) колоду sts.md"
+    },
+    {
+      "basename": "отображать в случайном порядке ВСЕ карточки sts",
+      "path": "startups/checklist/отображать в случайном порядке ВСЕ карточки sts.md"
+    },
+    {
+      "basename": "пользовательские категории (типы) карточек sts",
+      "path": "startups/checklist/пользовательские категории (типы) карточек sts.md"
+    },
+    {
+      "basename": "возможность указать favorite (любимые) карточки и колоды sts",
+      "path": "startups/checklist/возможность указать favorite (любимые) карточки и колоды sts.md"
+    },
+    {
+      "basename": "функции share (поделить) sts",
+      "path": "startups/checklist/функции share (поделить) sts.md"
+    },
+    {
+      "basename": "типы доступов к колодам sts",
+      "path": "startups/checklist/типы доступов к колодам sts.md"
+    },
+    {
+      "basename": "чекбоксы для карточек sts",
+      "path": "startups/checklist/чекбоксы для карточек sts.md"
+    },
+    {
+      "basename": "функций reset в рамках данной сессии sts",
+      "path": "startups/checklist/функций reset в рамках данной сессии sts.md"
+    },
+    {
+      "basename": "удалить из текущей сессии sts",
+      "path": "startups/checklist/удалить из текущей сессии sts.md"
+    },
+    {
+      "basename": "детальное описание карточки sts",
+      "path": "startups/checklist/детальное описание карточки sts.md"
+    },
+    {
+      "basename": "после первого элемента колоды есть кнопка следующий вопрос sts",
+      "path": "startups/checklist/после первого элемента колоды есть кнопка следующий вопрос sts.md"
+    },
+    {
+      "basename": "открыть колоду и получить вопрос sts",
+      "path": "startups/checklist/открыть колоду и получить вопрос sts.md"
+    },
+    {
+      "basename": "загрузки колод sts",
+      "path": "startups/checklist/загрузки колод sts.md"
+    },
+    {
+      "basename": "drag and drop всех элементов в системе sts",
+      "path": "startups/checklist/drag and drop всех элементов в системе sts.md"
+    },
+    {
+      "basename": "случайный порядок карточек sts",
+      "path": "startups/checklist/случайный порядок карточек sts.md"
+    },
+    {
+      "basename": "помощник английского языка bots assistant",
+      "path": "startups/bot assistant/помощник английского языка bots assistant.md"
+    },
+    {
+      "basename": "помощник фитнес инструктора bots assistant",
+      "path": "startups/bot assistant/помощник фитнес инструктора bots assistant.md"
+    },
+    {
+      "basename": "onboarding в команде пример",
+      "path": "tech/onboarding в команде пример.md"
+    },
+    {
+      "basename": "чувство вины - почему оно мешает жить и как с ним бороться",
+      "path": "sandbox/чувство вины - почему оно мешает жить и как с ним бороться.md"
+    },
+    {
+      "basename": "mvp приложения sts",
+      "path": "startups/checklist/mvp приложения sts.md"
+    },
+    {
+      "basename": "продвижение приложения sts",
+      "path": "startups/checklist/продвижение приложения sts.md"
+    },
+    {
+      "basename": "Вкладка Start sts",
+      "path": "startups/checklist/Вкладка Start sts.md"
+    },
+    {
+      "basename": "сущности приложение sts",
+      "path": "startups/checklist/сущности приложение sts.md"
+    },
+    {
+      "basename": "техническая реализация sts",
+      "path": "startups/checklist/техническая реализация sts.md"
+    },
+    {
+      "basename": "интеграция со сторонними сервисами sts",
+      "path": "startups/checklist/интеграция со сторонними сервисами sts.md"
+    },
+    {
+      "basename": "план реализации sts",
+      "path": "startups/checklist/план реализации sts.md"
+    },
+    {
+      "basename": "функция `добавить новую колоду` mvp sts",
+      "path": "startups/checklist/функция `добавить новую колоду` mvp sts.md"
+    },
+    {
+      "basename": "список карточек в колоде sts",
+      "path": "startups/checklist/список карточек в колоде sts.md"
+    },
+    {
+      "basename": "отобразить список всех существующих колод sts",
+      "path": "startups/checklist/отобразить список всех существующих колод sts.md"
+    },
+    {
+      "basename": "корпоративная интеграция sts",
+      "path": "startups/checklist/корпоративная интеграция sts.md"
+    },
+    {
+      "basename": "конструктор вопросов sts",
+      "path": "startups/checklist/конструктор вопросов sts.md"
+    },
+    {
+      "basename": "00 pwc fi2",
+      "path": "tech/pwc/00 pwc fi2.md"
+    },
+    {
+      "basename": "00 мозг",
+      "path": "sandbox/00 мозг.md"
+    },
+    {
+      "basename": "часто когда ты думаешь",
+      "path": "sandbox/books/джедайские техники/часто когда ты думаешь.md"
+    },
+    {
+      "basename": "Треугольник Готлоба Фреге",
+      "path": "sandbox/Треугольник Готлоба Фреге.md"
+    },
+    {
+      "basename": "современная проблема общения людей",
+      "path": "sandbox/современная проблема общения людей.md"
+    },
+    {
+      "basename": "Drawing 2022-01-13 09.29.06.excalidraw",
+      "path": "_excalidraw/Drawing 2022-01-13 09.29.06.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-01-13 16.39.18.excalidraw",
+      "path": "_excalidraw/Drawing 2022-01-13 16.39.18.excalidraw.md"
+    },
+    {
+      "basename": "интроверты",
+      "path": "sandbox/интроверты.md"
+    },
+    {
+      "basename": "00 meditation",
+      "path": "sandbox/meditation/00 meditation.md"
+    },
+    {
+      "basename": "как разные языки формируют наше мышление",
+      "path": "sandbox/как разные языки формируют наше мышление.md"
+    },
+    {
+      "basename": "00 soft skills",
+      "path": "sandbox/00 soft skills.md"
+    },
+    {
+      "basename": "pomodoro",
+      "path": "sandbox/pomodoro.md"
+    },
+    {
+      "basename": "йога и медитация для памяти и мышления",
+      "path": "sandbox/йога и медитация для памяти и мышления.md"
+    },
+    {
+      "basename": "ум и доброта",
+      "path": "sandbox/ум и доброта.md"
+    },
+    {
+      "basename": "рисование, улучшает память",
+      "path": "sandbox/рисование, улучшает память.md"
+    },
+    {
+      "basename": "active recall",
+      "path": "sandbox/learning/active recall.md"
+    },
+    {
+      "basename": "sql guide",
+      "path": "tech/sql guide.md"
+    },
+    {
+      "basename": "групповое обучение",
+      "path": "sandbox/learning/групповое обучение.md"
+    },
+    {
+      "basename": "akveo team",
+      "path": "tech/akveo/akveo team.md"
+    },
+    {
+      "basename": "dotnet core 5.0",
+      "path": "tech/dotnet core 5.0.md"
+    },
+    {
+      "basename": "ef core",
+      "path": "tech/ef core.md"
+    },
+    {
+      "basename": "learning how to learn summary",
+      "path": "sandbox/courses/learn how to learn/learning how to learn summary.md"
+    },
+    {
+      "basename": "performance review 2022 январь",
+      "path": "tech/akveo/performance review 2022 январь.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "sandbox/markdown.md"
+    },
+    {
+      "basename": "King Richard (Король Ричард)",
+      "path": "sandbox/films/King Richard (Король Ричард).md"
+    },
+    {
+      "basename": "Imposter Syndrome",
+      "path": "sandbox/Imposter Syndrome.md"
+    },
+    {
+      "basename": "extensive reading",
+      "path": "startups/reading aloud app/extensive reading.md"
+    },
+    {
+      "basename": "index scan and index seek",
+      "path": "tech/index scan and index seek.md"
+    },
+    {
+      "basename": "Information Fatigue Syndrome",
+      "path": "sandbox/learning/Information Fatigue Syndrome.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "tech/Linux.md"
+    },
+    {
+      "basename": "Mnemonics",
+      "path": "sandbox/learning/Mnemonics.md"
+    },
+    {
+      "basename": "NEWID",
+      "path": "tech/NEWID.md"
+    },
+    {
+      "basename": "ubuntu",
+      "path": "tech/ubuntu.md"
+    },
+    {
+      "basename": "как правильно критиковать",
+      "path": "sandbox/как правильно критиковать.md"
+    },
+    {
+      "basename": "привычки",
+      "path": "sandbox/привычки.md"
+    },
+    {
+      "basename": "обучение через обучение",
+      "path": "sandbox/learning/обучение через обучение.md"
+    },
+    {
+      "basename": "как удалить docker с ubuntu",
+      "path": "tech/как удалить docker с ubuntu.md"
+    },
+    {
+      "basename": "важность понимания материал",
+      "path": "sandbox/learning/важность понимания материал.md"
+    },
+    {
+      "basename": "дисциплина",
+      "path": "sandbox/дисциплина.md"
+    },
+    {
+      "basename": "изучение языков",
+      "path": "sandbox/learning/изучение языков.md"
+    },
+    {
+      "basename": "как правильно учиться по книгам",
+      "path": "sandbox/learning/как правильно учиться по книгам.md"
+    },
+    {
+      "basename": "как сделать backup базы данных sql ",
+      "path": "tech/как сделать backup базы данных sql .md"
+    },
+    {
+      "basename": "лидерство в организациях",
+      "path": "sandbox/лидерство в организациях.md"
+    },
+    {
+      "basename": "мотивация",
+      "path": "sandbox/мотивация.md"
+    },
+    {
+      "basename": "перерывы в обучении",
+      "path": "sandbox/learning/перерывы в обучении.md"
+    },
+    {
+      "basename": "пример ef core saving changes",
+      "path": "tech/пример ef core saving changes.md"
+    },
+    {
+      "basename": "пример сложной команды docker run",
+      "path": "tech/пример сложной команды docker run.md"
+    },
+    {
+      "basename": "сила воли",
+      "path": "sandbox/сила воли.md"
+    },
+    {
+      "basename": "среда для обучения",
+      "path": "sandbox/learning/среда для обучения.md"
+    },
+    {
+      "basename": "тетрис",
+      "path": "sandbox/books/джедайские техники/тетрис.md"
+    },
+    {
+      "basename": "техника вознаграждения себя",
+      "path": "sandbox/learning/техника вознаграждения себя.md"
+    },
+    {
+      "basename": "00 SQL",
+      "path": "tech/00 SQL.md"
+    },
+    {
+      "basename": "(ФК) работа и мотивация",
+      "path": "sandbox/factmaps/(ФК) работа и мотивация.md"
+    },
+    {
+      "basename": "виды временных таблиц в sql",
+      "path": "tech/виды временных таблиц в sql.md"
+    },
+    {
+      "basename": "don't look up",
+      "path": "sandbox/films/don't look up.md"
+    },
+    {
+      "basename": "matrix",
+      "path": "sandbox/films/matrix.md"
+    },
+    {
+      "basename": "команды linux",
+      "path": "tech/команды linux.md"
+    },
+    {
+      "basename": "деструктивное поведение",
+      "path": "sandbox/деструктивное поведение.md"
+    },
+    {
+      "basename": "AKS",
+      "path": "tech/AKS.md"
+    },
+    {
+      "basename": "container registry",
+      "path": "tech/container registry.md"
+    },
+    {
+      "basename": "Event Hub",
+      "path": "tech/Event Hub.md"
+    },
+    {
+      "basename": "Kubernates",
+      "path": "tech/Kubernates.md"
+    },
+    {
+      "basename": "LENS",
+      "path": "tech/LENS.md"
+    },
+    {
+      "basename": "Microservices Architecture",
+      "path": "tech/Microservices Architecture.md"
+    },
+    {
+      "basename": "Modular Monolith",
+      "path": "tech/Modular Monolith.md"
+    },
+    {
+      "basename": "Michael Grib",
+      "path": "people/Michael Grib.md"
+    },
+    {
+      "basename": "Pavel Pesetsky",
+      "path": "people/Pavel Pesetsky.md"
+    },
+    {
+      "basename": "speech recognition",
+      "path": "startups/reading aloud app/speech recognition.md"
+    },
+    {
+      "basename": "декомпозиция идеи",
+      "path": "sandbox/декомпозиция идеи.md"
+    },
+    {
+      "basename": "диффузия ответственности",
+      "path": "sandbox/диффузия ответственности.md"
+    },
+    {
+      "basename": "если бы у меня было больше времени",
+      "path": "sandbox/если бы у меня было больше времени.md"
+    },
+    {
+      "basename": "мотивация в работе",
+      "path": "sandbox/мотивация в работе.md"
+    },
+    {
+      "basename": "фразы и фразеологизмы",
+      "path": "sandbox/фразы и фразеологизмы.md"
+    },
+    {
+      "basename": "все очень просто",
+      "path": "_attachments/все очень просто.png"
+    },
+    {
+      "basename": "лучшее - враг хорошего",
+      "path": "sandbox/лучшее - враг хорошего.md"
+    },
+    {
+      "basename": "picassoo_bull",
+      "path": "_attachments/picassoo_bull.png"
+    },
+    {
+      "basename": "чтение вслух английский",
+      "path": "sandbox/english/чтение вслух английский.md"
+    },
+    {
+      "basename": "PoC приложение",
+      "path": "startups/reading aloud app/PoC приложение.md"
+    },
+    {
+      "basename": "roadmap проекта",
+      "path": "startups/reading aloud app/roadmap проекта.md"
+    },
+    {
+      "basename": "planning fallacy",
+      "path": "_attachments/planning fallacy.png"
+    },
+    {
+      "basename": "контроль эмоций",
+      "path": "art/acting/контроль эмоций.md"
+    },
+    {
+      "basename": "acting emotions",
+      "path": "art/acting/acting emotions.md"
+    },
+    {
+      "basename": "презентация",
+      "path": "startups/reading aloud app/презентация.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 1000
+}

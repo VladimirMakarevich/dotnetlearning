@@ -1,0 +1,61 @@
+{
+  "choices": [
+    {
+      "id": "80a87418-0933-4242-8a07-779fcc7a4bfd",
+      "name": "Select line",
+      "type": "Macro",
+      "command": true,
+      "macroId": "82affe4c-f9b1-4270-97a0-1f9c3ce0fc86"
+    },
+    {
+      "id": "77ad0133-6521-4a6b-9e9c-7f2d97ea5099",
+      "name": "Anki Add",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<!-- basicblock-start deck='sandbox' -->\n?::\n<!-- basicblock-end -->\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Select link",
+      "id": "82affe4c-f9b1-4270-97a0-1f9c3ce0fc86",
+      "commands": [
+        {
+          "name": "Select active line",
+          "type": "EditorCommand",
+          "id": "ef98fb02-ec10-4539-a2e7-186f55e99c8a",
+          "editorCommandType": "Select active line"
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}

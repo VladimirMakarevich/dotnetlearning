@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotnet/dotnet course Intermediate.md",
+            "file": "dotnet/00 dotnet.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md",
+                "file": "dotnet/00 dotnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md"
+                "file": "dotnet/00 dotnet.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md",
+                "file": "dotnet/00 dotnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,8 @@
   },
   "active": "c1642202a11d6391",
   "lastOpenFiles": [
-    "dotnet/dotnet course Intermediate.md",
     "dotnet/00 dotnet.md",
+    "dotnet/dotnet course Intermediate.md",
     "_utils/$tags.md",
     "_utils/$helpers.md",
     "_utils/$english_dictionary.md",

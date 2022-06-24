@@ -30,8 +30,6 @@ aliases: []
 
 `**keywords:**`
 
-#review
-
 ---
 
 `**links:**`

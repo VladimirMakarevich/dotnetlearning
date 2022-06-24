@@ -5,24 +5,36 @@
       "path": "dotnet/00 dotnet.md"
     },
     {
+      "basename": "dotnet course Beginner",
+      "path": "dotnet/dotnet course Beginner.md"
+    },
+    {
       "basename": "dotnet course Intermediate",
       "path": "dotnet/dotnet course Intermediate.md"
+    },
+    {
+      "basename": "dotnet course Professional",
+      "path": "dotnet/dotnet course Professional.md"
     },
     {
       "basename": "$tags",
       "path": "_utils/$tags.md"
     },
     {
-      "basename": "$helpers",
-      "path": "_utils/$helpers.md"
+      "basename": "$hot_keys",
+      "path": "_utils/$hot_keys.md"
     },
     {
       "basename": "$english_dictionary",
       "path": "_utils/$english_dictionary.md"
     },
     {
-      "basename": "$admonition_dictionary",
-      "path": "_utils/$admonition_dictionary.md"
+      "basename": "Связывайте заметки друг с другом",
+      "path": "_checklists/Связывайте заметки друг с другом.md"
+    },
+    {
+      "basename": "Пиши заметки своими словами",
+      "path": "_checklists/Пиши заметки своими словами.md"
     },
     {
       "basename": "@прокрастинация",
@@ -47,14 +59,6 @@
     {
       "basename": "Добавляй ссылки на источники идей",
       "path": "_checklists/Добавляй ссылки на источники идей.md"
-    },
-    {
-      "basename": "Связывайте заметки друг с другом",
-      "path": "_checklists/Связывайте заметки друг с другом.md"
-    },
-    {
-      "basename": "Пиши заметки своими словами",
-      "path": "_checklists/Пиши заметки своими словами.md"
     },
     {
       "basename": "Делайте заметки автономными",

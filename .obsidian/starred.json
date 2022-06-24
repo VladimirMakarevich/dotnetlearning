@@ -19,6 +19,11 @@
       "type": "file",
       "title": "06192022",
       "path": "daily/06192022.md"
+    },
+    {
+      "type": "file",
+      "title": "$hot_keys",
+      "path": "_utils/$hot_keys.md"
     }
   ]
 }

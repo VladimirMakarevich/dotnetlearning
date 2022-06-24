@@ -28,7 +28,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "_utils/$admonition_dictionary.md\n\n_utils/$english_dictionary.md",
+  "customDictionaryPaths": "_utils/$english_dictionary.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -43,22 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "заметок": {
-      "заметок": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1653367727485
-        }
-      }
-    },
-    "00 notes": {
-      "00 notes": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1653367747064
-        }
-      }
-    },
     "Zettelkasten": {
       "Zettelkasten": {
         "internalLink": {
@@ -68,80 +52,10 @@
       }
     },
     "Obsidian": {
-      "Obsidian": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1653370180600
-        }
-      },
       "00 obsidian": {
         "internalLink": {
           "count": 3,
           "lastUpdated": 1654675249694
-        }
-      }
-    },
-    "чеклист": {
-      "чеклист": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1653408883038
-        }
-      }
-    },
-    "00 obsidian": {
-      "00 obsidian": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1653454192715
-        }
-      }
-    },
-    "SQL": {
-      "SQL": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1653456014178
-        }
-      }
-    },
-    "Theory": {
-      "Theory": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1653562137096
-        }
-      }
-    },
-    "questions": {
-      "questions": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1653562164866
-        }
-      }
-    },
-    "meta-question": {
-      "meta-question": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1653562186840
-        }
-      }
-    },
-    "мышления": {
-      "мышления": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1653586333403
-        }
-      }
-    },
-    "etc": {
-      "etc": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1653586376081
         }
       }
     },
@@ -438,6 +352,30 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1655746069405
+        }
+      }
+    },
+    "repetition": {
+      "repetition": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656060252663
+        }
+      }
+    },
+    "search": {
+      "search": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1656061236836
+        }
+      }
+    },
+    "Proffesional": {
+      "Proffesional": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656061669238
         }
       }
     }

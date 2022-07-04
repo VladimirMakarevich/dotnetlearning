@@ -10,13 +10,15 @@ aliases: []
 
 
 
+
 ---
 `**sources:**`
 
+- [Гайд по системе умных заметок Zettelkasten — настройка, воркфлоу, лайфхаки](https://netpeak.net/ru/blog/vtoroy-mozg-gayd-po-sisteme-umnykh-zametok-zettelkasten-vtoraya-chast/)
+- 
+
 ---
 `**keywords:**`
-
-#review 
 
 ---
 `**links:**`

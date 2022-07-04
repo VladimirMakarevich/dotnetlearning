@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "00 first note",
-      "path": "sandbox/00 first note.md"
+      "basename": "$how to - guide",
+      "path": "_utils/$how to - guide.md"
     },
     {
       "basename": "$tags",
@@ -11,6 +11,10 @@
     {
       "basename": "$hot_keys",
       "path": "_utils/$hot_keys.md"
+    },
+    {
+      "basename": "00 first note",
+      "path": "sandbox/00 first note.md"
     },
     {
       "basename": "$english_dictionary",

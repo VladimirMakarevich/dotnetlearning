@@ -5,6 +5,8 @@ date updated: <% tp.file.creation_date() %>
 aliases: []
 ---
 
+## ==<% tp.file.title %>==
+
 <% tp.file.cursor(0) %>
 
 

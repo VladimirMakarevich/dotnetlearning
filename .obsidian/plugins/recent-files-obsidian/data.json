@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "dotnet course Intermediate",
-      "path": "dotnet/dotnet course Intermediate.md"
-    },
-    {
-      "basename": "00 dotnet",
-      "path": "dotnet/00 dotnet.md"
-    },
-    {
-      "basename": "dotnet course Beginner",
-      "path": "dotnet/dotnet course Beginner.md"
-    },
-    {
-      "basename": "dotnet course Professional",
-      "path": "dotnet/dotnet course Professional.md"
-    },
-    {
       "basename": "$tags",
       "path": "_utils/$tags.md"
     },
@@ -29,24 +13,16 @@
       "path": "_utils/$english_dictionary.md"
     },
     {
-      "basename": "Связывайте заметки друг с другом",
-      "path": "_checklists/Связывайте заметки друг с другом.md"
+      "basename": "$1simple_note_template",
+      "path": "_templates/$1simple_note_template.md"
     },
     {
-      "basename": "Пиши заметки своими словами",
-      "path": "_checklists/Пиши заметки своими словами.md"
+      "basename": "Делайте заметки автономными",
+      "path": "_checklists/Делайте заметки автономными.md"
     },
     {
       "basename": "@прокрастинация",
       "path": "_checklists/@прокрастинация.md"
-    },
-    {
-      "basename": "@questions for thinking checklist",
-      "path": "_checklists/@questions for thinking checklist.md"
-    },
-    {
-      "basename": "@planning checklist",
-      "path": "_checklists/@planning checklist.md"
     },
     {
       "basename": "@how to work with notes checklist",
@@ -61,20 +37,20 @@
       "path": "_checklists/Добавляй ссылки на источники идей.md"
     },
     {
-      "basename": "Делайте заметки автономными",
-      "path": "_checklists/Делайте заметки автономными.md"
-    },
-    {
       "basename": "Заметка должна быть атомарной",
       "path": "_checklists/Заметка должна быть атомарной.md"
     },
     {
-      "basename": "$0common_template",
-      "path": "_templates/$0common_template.md"
+      "basename": "Пиши заметки своими словами",
+      "path": "_checklists/Пиши заметки своими словами.md"
     },
     {
-      "basename": "$1simple_note_template",
-      "path": "_templates/$1simple_note_template.md"
+      "basename": "Связывайте заметки друг с другом",
+      "path": "_checklists/Связывайте заметки друг с другом.md"
+    },
+    {
+      "basename": "$0common_template",
+      "path": "_templates/$0common_template.md"
     },
     {
       "basename": "presentation NOTES",
@@ -315,14 +291,6 @@
     {
       "basename": "$5simple_note_template",
       "path": "_templates/$5simple_note_template.md"
-    },
-    {
-      "basename": "$4checklist_main_template",
-      "path": "_templates/$4checklist_main_template.md"
-    },
-    {
-      "basename": "$4checklist_item_template",
-      "path": "_templates/$4checklist_item_template.md"
     },
     {
       "basename": "$3film_template",

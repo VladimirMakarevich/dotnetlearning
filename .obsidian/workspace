@@ -4,38 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a8cbf61a52ebe9",
+        "id": "abbdbd750e9d60d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotnet/00 dotnet.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "57d14b48521971f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dotnet/dotnet course Intermediate.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e2647026aaf3552f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dotnet/dotnet course Beginner.md",
+            "file": "_utils/$tags.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -132,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md",
+                "file": "_utils/$tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md"
+                "file": "_utils/$tags.md"
               }
             }
           },
@@ -178,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotnet/dotnet course Intermediate.md",
+                "file": "_utils/$tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +170,17 @@
     "width": 243.6999969482422,
     "collapsed": true
   },
-  "active": "57d14b48521971f4",
+  "active": "abbdbd750e9d60d5",
   "lastOpenFiles": [
-    "dotnet/dotnet course Intermediate.md",
-    "dotnet/00 dotnet.md",
-    "dotnet/dotnet course Beginner.md",
-    "dotnet/dotnet course Professional.md",
     "_utils/$tags.md",
     "_utils/$hot_keys.md",
     "_utils/$english_dictionary.md",
-    "_utils/Untitled.md",
-    "_checklists/Связывайте заметки друг с другом.md",
-    "_checklists/Пиши заметки своими словами.md"
+    "_templates/$1simple_note_template.md",
+    "_checklists/Делайте заметки автономными.md",
+    "_checklists/@прокрастинация.md",
+    "_checklists/@how to work with notes checklist.md",
+    "_checklists/@notes checklist.md",
+    "_checklists/@questions for thinking checklist.md",
+    "_checklists/@planning checklist.md"
   ]
 }

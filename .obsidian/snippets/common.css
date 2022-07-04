@@ -1,7 +1,7 @@
 /* Coloured headings for editor and preview, same font-weight in Edit & Preview */
 .cm-s-obsidian .cm-header-1,
  .markdown-preview-view h1 {
-  font-size: 26px;
+  font-size: 22px!important;
   font-weight: bold;
 }
 
@@ -13,25 +13,25 @@
 
 .cm-s-obsidian .cm-header-3,
  .markdown-preview-view h3 {
-  font-size: 22px;
+  font-size: 18px!important;
   font-weight: bold;
 }
 
 .cm-s-obsidian .cm-header-4,
  .markdown-preview-view h4 {
-  font-size: 20px;
+  font-size: 16px!important;
   font-weight: bold;
 }
 
 .cm-s-obsidian .cm-header-5,
  .markdown-preview-view h5 {
-  font-size: 18px;
+  font-size: 15px!important;
   font-weight: bold;
 }
 
 .cm-s-obsidian .cm-header-6,
  .markdown-preview-view h6 {
-  font-size: 16px;
+  font-size: 14px!important;
   font-weight: bold;
 }
 

@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "0b588fb6a9057fb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sandbox/избавиться от стресса.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "sandbox/избавиться от стресса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sandbox/00 time management.md"
+                "file": "sandbox/избавиться от стресса.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "sandbox/избавиться от стресса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +191,9 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "cc26c2a0cee27c1f",
+  "active": "0b588fb6a9057fb7",
   "lastOpenFiles": [
+    "sandbox/избавиться от стресса.md",
     "sandbox/00 time management.md",
     "_utils/$how to - guide.md",
     "_utils/$tags.md",
@@ -188,7 +202,6 @@
     "_templates/$1simple_note_template.md",
     "_checklists/Делайте заметки автономными.md",
     "_checklists/@прокрастинация.md",
-    "_checklists/@how to work with notes checklist.md",
-    "_checklists/@notes checklist.md"
+    "_checklists/@how to work with notes checklist.md"
   ]
 }

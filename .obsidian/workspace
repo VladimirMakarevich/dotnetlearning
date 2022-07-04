@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_utils/$tags.md",
+            "file": "sandbox/00 first note.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_utils/$tags.md",
+                "file": "sandbox/00 first note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_utils/$tags.md"
+                "file": "sandbox/00 first note.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_utils/$tags.md",
+                "file": "sandbox/00 first note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "abbdbd750e9d60d5",
   "lastOpenFiles": [
+    "sandbox/00 first note.md",
     "_utils/$tags.md",
     "_utils/$hot_keys.md",
     "_utils/$english_dictionary.md",
@@ -180,7 +181,6 @@
     "_checklists/@прокрастинация.md",
     "_checklists/@how to work with notes checklist.md",
     "_checklists/@notes checklist.md",
-    "_checklists/@questions for thinking checklist.md",
-    "_checklists/@planning checklist.md"
+    "_checklists/@questions for thinking checklist.md"
   ]
 }

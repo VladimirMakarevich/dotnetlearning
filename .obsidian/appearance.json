@@ -5,7 +5,8 @@
   "translucency": false,
   "enabledCssSnippets": [
     "graph",
-    "table"
+    "table",
+    "common"
   ],
   "interfaceFontFamily": "Calibri",
   "textFontFamily": "Calibri",

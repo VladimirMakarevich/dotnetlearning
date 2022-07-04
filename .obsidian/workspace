@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_utils/$how to - guide.md",
+            "file": "sandbox/00 time management.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/00 time management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_utils/$how to - guide.md"
+                "file": "sandbox/00 time management.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/00 time management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +180,10 @@
   },
   "active": "cc26c2a0cee27c1f",
   "lastOpenFiles": [
+    "sandbox/00 time management.md",
     "_utils/$how to - guide.md",
     "_utils/$tags.md",
     "_utils/$hot_keys.md",
-    "sandbox/00 first note.md",
     "_utils/$english_dictionary.md",
     "_templates/$1simple_note_template.md",
     "_checklists/Делайте заметки автономными.md",

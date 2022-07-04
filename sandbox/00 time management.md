@@ -1,12 +1,14 @@
 ---
-title: 00 first note
+title: 00 time management
 date created: 2022-07-04 20:19
 date updated: 2022-07-04 20:19
 aliases:
-  - first note
+  - управление знаниями
 ---
 
-## ==first note==
+## ==time management==
+
+Управление временем
 
 ---
 
@@ -17,6 +19,7 @@ aliases:
 `**keywords:**`
 
 #review
+#timemanagement
 
 ---
 

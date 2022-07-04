@@ -1,50 +1,38 @@
 /* Coloured headings for editor and preview, same font-weight in Edit & Preview */
 .cm-s-obsidian .cm-header-1,
  .markdown-preview-view h1 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 24px;
+  font-size: 26px;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 .cm-s-obsidian .cm-header-2,
  .markdown-preview-view h2 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 22px;
+  font-size: 20px!important;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 .cm-s-obsidian .cm-header-3,
  .markdown-preview-view h3 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 20px;
+  font-size: 22px;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 .cm-s-obsidian .cm-header-4,
  .markdown-preview-view h4 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 .cm-s-obsidian .cm-header-5,
  .markdown-preview-view h5 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 .cm-s-obsidian .cm-header-6,
  .markdown-preview-view h6 {
-  border-bottom: 0.5px solid var(--text-accent);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
-  width: 70%; /* Change this to whatever width you want. */
 }
 
 

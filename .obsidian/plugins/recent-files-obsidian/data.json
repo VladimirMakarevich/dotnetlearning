@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "@how to work with notes checklist",
+      "path": "_checklists/@how to work with notes checklist.md"
+    },
+    {
+      "basename": "@notes checklist",
+      "path": "_checklists/@notes checklist.md"
+    },
+    {
       "basename": "$how to - guide",
       "path": "_utils/$how to - guide.md"
     },
@@ -25,16 +33,8 @@
       "path": "_utils/$tags.md"
     },
     {
-      "basename": "@how to work with notes checklist",
-      "path": "_checklists/@how to work with notes checklist.md"
-    },
-    {
       "basename": "@прокрастинация",
       "path": "_checklists/@прокрастинация.md"
-    },
-    {
-      "basename": "@notes checklist",
-      "path": "_checklists/@notes checklist.md"
     },
     {
       "basename": "мессенджерах",

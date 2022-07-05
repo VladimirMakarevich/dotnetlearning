@@ -14,6 +14,8 @@ aliases:
 
 Какие [[методы и подходы в time management]]? [[Как овладеть time management]]?
 
+метод
+
 ---
 
 `**sources:**`

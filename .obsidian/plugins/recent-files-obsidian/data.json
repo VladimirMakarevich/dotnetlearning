@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "$how to - guide",
+      "path": "_utils/$how to - guide.md"
+    },
+    {
+      "basename": "$hot_keys",
+      "path": "_utils/$hot_keys.md"
+    },
+    {
       "basename": "методы и подходы в time management",
       "path": "sandbox/методы и подходы в time management.md"
     },
@@ -17,16 +25,8 @@
       "path": "sandbox/Kelly McGonigal.md"
     },
     {
-      "basename": "$how to - guide",
-      "path": "_utils/$how to - guide.md"
-    },
-    {
       "basename": "$tags",
       "path": "_utils/$tags.md"
-    },
-    {
-      "basename": "$hot_keys",
-      "path": "_utils/$hot_keys.md"
     },
     {
       "basename": "$english_dictionary",

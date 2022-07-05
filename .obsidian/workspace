@@ -7,8 +7,13 @@
         "id": "7738a2519af948d6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_utils/$how to - guide.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_utils/$how to - guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_utils/$how to - guide.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_utils/$how to - guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,13 +179,13 @@
   },
   "active": "7738a2519af948d6",
   "lastOpenFiles": [
+    "_utils/$how to - guide.md",
+    "_utils/$hot_keys.md",
     "sandbox/методы и подходы в time management.md",
     "sandbox/00 time management.md",
     "sandbox/избавиться от стресса.md",
     "sandbox/Kelly McGonigal.md",
-    "_utils/$how to - guide.md",
     "_utils/$tags.md",
-    "_utils/$hot_keys.md",
     "_utils/$english_dictionary.md",
     "_templates/$1simple_note_template.md",
     "_checklists/Делайте заметки автономными.md"

@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7738a2519af948d6",
+        "id": "2319fd445e1730c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_utils/$how to - guide.md",
+            "file": "sandbox/00 time management.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ccaba64733ca1367",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sandbox/избавиться от стресса.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "bd9d5e320fb5920e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "sandbox/мессенджерах.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/избавиться от стресса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_utils/$how to - guide.md"
+                "file": "sandbox/избавиться от стресса.md"
               }
             }
           },
@@ -159,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/избавиться от стресса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +203,17 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "7738a2519af948d6",
+  "active": "ccaba64733ca1367",
   "lastOpenFiles": [
-    "_utils/$how to - guide.md",
-    "_utils/$hot_keys.md",
-    "sandbox/методы и подходы в time management.md",
-    "sandbox/00 time management.md",
     "sandbox/избавиться от стресса.md",
+    "sandbox/00 time management.md",
+    "sandbox/мессенджерах.md",
+    "_utils/$hot_keys.md",
+    "_utils/$how to - guide.md",
+    "sandbox/методы и подходы в time management.md",
     "sandbox/Kelly McGonigal.md",
     "_utils/$tags.md",
     "_utils/$english_dictionary.md",
-    "_templates/$1simple_note_template.md",
-    "_checklists/Делайте заметки автономными.md"
+    "_templates/$1simple_note_template.md"
   ]
 }

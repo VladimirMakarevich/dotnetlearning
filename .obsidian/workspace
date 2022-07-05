@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc26c2a0cee27c1f",
+        "id": "7738a2519af948d6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "sandbox/00 time management.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sandbox/00 time management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sandbox/00 time management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "9a93b51cadf97a33",
@@ -160,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sandbox/00 time management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +168,11 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "cc26c2a0cee27c1f",
+  "active": "7738a2519af948d6",
   "lastOpenFiles": [
+    "sandbox/методы и подходы в time management.md",
     "sandbox/00 time management.md",
     "sandbox/избавиться от стресса.md",
-    "sandbox/методы и подходы в time management.md",
     "sandbox/Kelly McGonigal.md",
     "_utils/$how to - guide.md",
     "_utils/$tags.md",

@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "_utils/$how to - guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sandbox/00 time management.md"
+                "file": "_utils/$how to - guide.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "_utils/$how to - guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,9 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "dcb3ac9d2066adcd",
+  "active": "407c7260dc01218f",
   "lastOpenFiles": [
+    "_utils/$how to - guide.md",
     "sandbox/00 time management.md",
     "_utils/как внести изменения сразу во множество заметок.md",
     "sandbox/Kelly McGonigal.md",
@@ -200,7 +201,6 @@
     "_checklists/Связывайте заметки друг с другом.md",
     "_checklists/Пиши заметки своими словами.md",
     "_checklists/Заметка должна быть атомарной.md",
-    "_checklists/Добавляй ссылки на источники идей.md",
-    "_checklists/Делайте заметки автономными.md"
+    "_checklists/Добавляй ссылки на источники идей.md"
   ]
 }

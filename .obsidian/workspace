@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "407c7260dc01218f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_utils/$how to - guides.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "dcb3ac9d2066adcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sandbox/00 time management.md",
+            "file": "_utils/$how to - guides.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -190,14 +177,14 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "407c7260dc01218f",
+  "active": "dcb3ac9d2066adcd",
   "lastOpenFiles": [
     "_utils/$how to - guides.md",
     "sandbox/00 time management.md",
     "_utils/как внести изменения сразу во множество заметок.md",
+    "sandbox/методы и подходы в time management.md",
     "sandbox/Kelly McGonigal.md",
     "sandbox/избавиться от стресса.md",
-    "sandbox/методы и подходы в time management.md",
     "_checklists/Связывайте заметки друг с другом.md",
     "_checklists/Пиши заметки своими словами.md",
     "_checklists/Заметка должна быть атомарной.md",

@@ -14,7 +14,17 @@
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "f5a125ab1de606b0"
+      },
+      {
+        "id": "3ad7671a852ea405",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "f5a125ab1de606b0"
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "407c7260dc01218f",
+  "active": "3ad7671a852ea405",
   "lastOpenFiles": [
     "_utils/$how to - guide.md",
     "sandbox/00 time management.md",

@@ -274,6 +274,30 @@
           "lastUpdated": 1657193676802
         }
       }
+    },
+    "Лайфхаки": {
+      "Лайфхаки": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657203767104
+        }
+      }
+    },
+    "links": {
+      "links": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1657203806329
+        }
+      }
+    },
+    "заметку": {
+      "заметку": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657203832479
+        }
+      }
     }
   },
   "overwriteDuplicatedExistedPhrase": false,

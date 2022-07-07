@@ -14,17 +14,20 @@
             "backlinks": true,
             "source": false
           }
-        },
-        "group": "f5a125ab1de606b0"
+        }
       },
       {
-        "id": "3ad7671a852ea405",
+        "id": "dcb3ac9d2066adcd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "f5a125ab1de606b0"
+          "type": "markdown",
+          "state": {
+            "file": "sandbox/00 time management.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -51,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#review",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/00 time management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_utils/$how to - guide.md"
+                "file": "sandbox/00 time management.md"
               }
             }
           },
@@ -169,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_utils/$how to - guide.md",
+                "file": "sandbox/00 time management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +190,17 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "3ad7671a852ea405",
+  "active": "dcb3ac9d2066adcd",
   "lastOpenFiles": [
-    "_utils/$how to - guide.md",
     "sandbox/00 time management.md",
+    "_utils/как внести изменения сразу во множество заметок.md",
     "sandbox/Kelly McGonigal.md",
     "sandbox/избавиться от стресса.md",
-    "sandbox/мессенджерах.md",
-    "_templates/$0common_template.md",
-    "_templates/$1simple_note_template.md",
-    "_templates/$2MOC.md",
-    "_utils/$hot_keys.md",
-    "sandbox/Untitled.md"
+    "sandbox/методы и подходы в time management.md",
+    "_checklists/Связывайте заметки друг с другом.md",
+    "_checklists/Пиши заметки своими словами.md",
+    "_checklists/Заметка должна быть атомарной.md",
+    "_checklists/Добавляй ссылки на источники идей.md",
+    "_checklists/Делайте заметки автономными.md"
   ]
 }

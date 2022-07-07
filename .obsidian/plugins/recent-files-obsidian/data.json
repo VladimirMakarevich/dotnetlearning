@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "$how to - guide",
-      "path": "_utils/$how to - guide.md"
-    },
-    {
       "basename": "00 time management",
       "path": "sandbox/00 time management.md"
+    },
+    {
+      "basename": "как внести изменения сразу во множество заметок",
+      "path": "_utils/как внести изменения сразу во множество заметок.md"
     },
     {
       "basename": "Kelly McGonigal",
@@ -17,12 +17,52 @@
       "path": "sandbox/избавиться от стресса.md"
     },
     {
-      "basename": "$0common_template",
-      "path": "_templates/$0common_template.md"
+      "basename": "методы и подходы в time management",
+      "path": "sandbox/методы и подходы в time management.md"
+    },
+    {
+      "basename": "Связывайте заметки друг с другом",
+      "path": "_checklists/Связывайте заметки друг с другом.md"
+    },
+    {
+      "basename": "Пиши заметки своими словами",
+      "path": "_checklists/Пиши заметки своими словами.md"
+    },
+    {
+      "basename": "Заметка должна быть атомарной",
+      "path": "_checklists/Заметка должна быть атомарной.md"
+    },
+    {
+      "basename": "Добавляй ссылки на источники идей",
+      "path": "_checklists/Добавляй ссылки на источники идей.md"
+    },
+    {
+      "basename": "Делайте заметки автономными",
+      "path": "_checklists/Делайте заметки автономными.md"
+    },
+    {
+      "basename": "@прокрастинация",
+      "path": "_checklists/@прокрастинация.md"
+    },
+    {
+      "basename": "@notes checklist",
+      "path": "_checklists/@notes checklist.md"
+    },
+    {
+      "basename": "@how to work with notes checklist",
+      "path": "_checklists/@how to work with notes checklist.md"
     },
     {
       "basename": "$1simple_note_template",
       "path": "_templates/$1simple_note_template.md"
+    },
+    {
+      "basename": "$0common_template",
+      "path": "_templates/$0common_template.md"
+    },
+    {
+      "basename": "$how to - guide",
+      "path": "_utils/$how to - guide.md"
     },
     {
       "basename": "$2MOC",
@@ -33,48 +73,12 @@
       "path": "_utils/$hot_keys.md"
     },
     {
-      "basename": "@how to work with notes checklist",
-      "path": "_checklists/@how to work with notes checklist.md"
-    },
-    {
-      "basename": "@notes checklist",
-      "path": "_checklists/@notes checklist.md"
-    },
-    {
       "basename": "$tags",
       "path": "_utils/$tags.md"
     },
     {
-      "basename": "@прокрастинация",
-      "path": "_checklists/@прокрастинация.md"
-    },
-    {
-      "basename": "методы и подходы в time management",
-      "path": "sandbox/методы и подходы в time management.md"
-    },
-    {
       "basename": "$english_dictionary",
       "path": "_utils/$english_dictionary.md"
-    },
-    {
-      "basename": "Делайте заметки автономными",
-      "path": "_checklists/Делайте заметки автономными.md"
-    },
-    {
-      "basename": "Добавляй ссылки на источники идей",
-      "path": "_checklists/Добавляй ссылки на источники идей.md"
-    },
-    {
-      "basename": "Заметка должна быть атомарной",
-      "path": "_checklists/Заметка должна быть атомарной.md"
-    },
-    {
-      "basename": "Пиши заметки своими словами",
-      "path": "_checklists/Пиши заметки своими словами.md"
-    },
-    {
-      "basename": "Связывайте заметки друг с другом",
-      "path": "_checklists/Связывайте заметки друг с другом.md"
     },
     {
       "basename": "presentation NOTES",

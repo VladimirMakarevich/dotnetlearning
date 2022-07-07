@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sandbox/00 time management.md",
+            "file": "_utils/$how to - guide.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "sandbox/00 time management.md",
+            "file": "_utils/$how to - guide.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -103,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "_utils/$how to - guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sandbox/00 time management.md"
+                "file": "_utils/$how to - guide.md"
               }
             }
           },
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sandbox/00 time management.md",
+                "file": "_utils/$how to - guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,15 +216,15 @@
   },
   "active": "ccaba64733ca1367",
   "lastOpenFiles": [
+    "_utils/$how to - guide.md",
+    "_utils/MOC - как делать и зачем это нужно.md",
     "sandbox/00 time management.md",
+    "sandbox/Kelly McGonigal.md",
+    "sandbox/избавиться от стресса.md",
     "_checklists/@how to work with notes checklist.md",
     "_checklists/@notes checklist.md",
-    "_utils/$how to - guide.md",
     "_templates/$0common_template.md",
-    "sandbox/избавиться от стресса.md",
     "_templates/$1simple_note_template.md",
-    "_utils/$tags.md",
-    "_checklists/@прокрастинация.md",
-    "sandbox/мессенджерах.md"
+    "_utils/$tags.md"
   ]
 }

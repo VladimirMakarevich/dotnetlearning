@@ -1,11 +1,11 @@
 ---
-title: $how to - guide
+title: $how to - guides
 date created: 2022-07-04 20:21
 date updated: 2022-07-07 14:39
 aliases: []
 ---
 
-## ==$how to - guide==
+## ==$how to - guides==
 
 - [[Процесс ведения заметок - описываем flow]].
 - [[Vault - как создать новый]].

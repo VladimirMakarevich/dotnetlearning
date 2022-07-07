@@ -16,9 +16,9 @@ date updated: 2022-06-24 11:06
 
 ==ctrl + shift + F== -- global text search
 
-==ctrl + N== -- add new note (and specify the path to creation)
+==ctrl + N== -- add new note (`and specify the path to creation`)
 
-==ctrl + shift + N== -- add new note in new tab
+==ctrl + shift + N== -- add new note in new tab (`in current directory`)
 
 ==alt + E== -- insert template
 
@@ -41,12 +41,6 @@ date updated: 2022-06-24 11:06
 ==ctrl + shift + Q== -- select single line
 
 ==ctrl + alt + L== -- prettifier the text
-
-## Anki extension
-
-==alt + shift + A== -- add new anki card
-
-### Starred hotkeys extension
 
 ==alt + S== -- starred/unstarred
 

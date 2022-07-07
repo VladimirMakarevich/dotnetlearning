@@ -9,12 +9,49 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_checklists/@how to work with notes checklist.md",
+            "file": "sandbox/00 time management.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "a394a9a74a621973"
+      },
+      {
+        "id": "db27e4ae8a967a3b",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "sandbox/00 time management.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "a394a9a74a621973"
       }
     ],
     "direction": "vertical"
@@ -66,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_checklists/@how to work with notes checklist.md",
+                "file": "sandbox/00 time management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_checklists/@how to work with notes checklist.md"
+                "file": "sandbox/00 time management.md"
               }
             }
           },
@@ -159,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_checklists/@how to work with notes checklist.md",
+                "file": "sandbox/00 time management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +217,10 @@
   },
   "active": "ccaba64733ca1367",
   "lastOpenFiles": [
+    "sandbox/00 time management.md",
     "_checklists/@how to work with notes checklist.md",
     "_checklists/@notes checklist.md",
     "_utils/$how to - guide.md",
-    "sandbox/00 time management.md",
     "_templates/$0common_template.md",
     "sandbox/избавиться от стресса.md",
     "_templates/$1simple_note_template.md",

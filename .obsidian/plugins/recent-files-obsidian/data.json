@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 time management",
+      "path": "sandbox/00 time management.md"
+    },
+    {
       "basename": "@how to work with notes checklist",
       "path": "_checklists/@how to work with notes checklist.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "$how to - guide",
       "path": "_utils/$how to - guide.md"
-    },
-    {
-      "basename": "00 time management",
-      "path": "sandbox/00 time management.md"
     },
     {
       "basename": "$0common_template",

@@ -5,16 +5,8 @@
       "path": "_utils/$how to - guide.md"
     },
     {
-      "basename": "$hot_keys",
-      "path": "_utils/$hot_keys.md"
-    },
-    {
       "basename": "00 time management",
       "path": "sandbox/00 time management.md"
-    },
-    {
-      "basename": "$2MOC",
-      "path": "_templates/$2MOC.md"
     },
     {
       "basename": "Kelly McGonigal",
@@ -25,14 +17,6 @@
       "path": "sandbox/избавиться от стресса.md"
     },
     {
-      "basename": "@how to work with notes checklist",
-      "path": "_checklists/@how to work with notes checklist.md"
-    },
-    {
-      "basename": "@notes checklist",
-      "path": "_checklists/@notes checklist.md"
-    },
-    {
       "basename": "$0common_template",
       "path": "_templates/$0common_template.md"
     },
@@ -41,16 +25,28 @@
       "path": "_templates/$1simple_note_template.md"
     },
     {
+      "basename": "$2MOC",
+      "path": "_templates/$2MOC.md"
+    },
+    {
+      "basename": "$hot_keys",
+      "path": "_utils/$hot_keys.md"
+    },
+    {
+      "basename": "@how to work with notes checklist",
+      "path": "_checklists/@how to work with notes checklist.md"
+    },
+    {
+      "basename": "@notes checklist",
+      "path": "_checklists/@notes checklist.md"
+    },
+    {
       "basename": "$tags",
       "path": "_utils/$tags.md"
     },
     {
       "basename": "@прокрастинация",
       "path": "_checklists/@прокрастинация.md"
-    },
-    {
-      "basename": "мессенджерах",
-      "path": "sandbox/мессенджерах.md"
     },
     {
       "basename": "методы и подходы в time management",

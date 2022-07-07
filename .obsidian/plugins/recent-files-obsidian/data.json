@@ -5,6 +5,14 @@
       "path": "_utils/$how to - guides.md"
     },
     {
+      "basename": "$english_dictionary",
+      "path": "_utils/$english_dictionary.md"
+    },
+    {
+      "basename": "$hot_keys",
+      "path": "_utils/$hot_keys.md"
+    },
+    {
       "basename": "00 time management",
       "path": "sandbox/00 time management.md"
     },
@@ -69,16 +77,8 @@
       "path": "_templates/$2MOC.md"
     },
     {
-      "basename": "$hot_keys",
-      "path": "_utils/$hot_keys.md"
-    },
-    {
       "basename": "$tags",
       "path": "_utils/$tags.md"
-    },
-    {
-      "basename": "$english_dictionary",
-      "path": "_utils/$english_dictionary.md"
     },
     {
       "basename": "presentation NOTES",

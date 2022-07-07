@@ -5,14 +5,6 @@ date updated: 2022-07-07 16:53
 aliases: []
 ---
 
-```ad-attention
-title: ВНИМАНИЕ!
-_Если данное приложение для вас является слишком сложным и не понятным - то я рекомендую начать использовать что нибудь попроще - на пример [Microsoft OneNote Digital Note Taking App](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)_
-
-[Microsoft OneNote: Save Notes - Apps on Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en&gl=US)
-[Microsoft OneNote on the App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
-```
-
 ## ==$how to - guides==
 
 - [[Обзор структуры текущего Vault]].
@@ -47,14 +39,22 @@ _Если данное приложение для вас является сл�
 - Базовые правила ведения заметок - [[@notes checklist]].
 - [[Работа с презентациями в приложении Obsidian]].
 - [[Как использовать Git (основы)]].
+- [[Мобильное приложение Obsidian]]. 
 
-> Не пытайтесь сделать все идеально. Просто начните делать. Со временем вы выработаете свой собственный стиль написания заметок и текстов. Главное не бойтесь.
+> ✍️Не пытайтесь сделать все идеально. Просто начните делать. Со временем вы выработаете свой собственный стиль написания заметок и текстов. Главное не бойтесь.
+
+```ad-attention
+title: ВНИМАНИЕ!
+_Если данное приложение для вас является слишком сложным и не понятным - то я рекомендую начать использовать что нибудь попроще - на пример [Microsoft OneNote Digital Note Taking App](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)_
+
+[Microsoft OneNote: Save Notes - Apps on Google Play](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en&gl=US)
+[Microsoft OneNote on the App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
+```
 
 ---
 
 `**sources:**`
 
-- [Гайд по системе умных заметок Zettelkasten — настройка, воркфлоу, лайфхаки](https://netpeak.net/ru/blog/vtoroy-mozg-gayd-po-sisteme-umnykh-zametok-zettelkasten-vtoraya-chast/)
 - [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax)
 
 ---

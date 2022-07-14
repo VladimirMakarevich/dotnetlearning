@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_utils/$how to - guides.md",
+            "file": "daily/00 daily notes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_utils/$how to - guides.md",
+                "file": "daily/00 daily notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_utils/$how to - guides.md"
+                "file": "daily/00 daily notes.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_utils/$how to - guides.md",
+                "file": "daily/00 daily notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +179,7 @@
   },
   "active": "dcb3ac9d2066adcd",
   "lastOpenFiles": [
+    "_templates/$3daily_template.md",
     "_utils/$how to - guides.md",
     "_utils/Как настроить мобильное (и на планшете) приложение (в платной подписке sync).md",
     "_utils/$english_dictionary.md",
@@ -187,7 +188,6 @@
     "_utils/как внести изменения сразу во множество заметок.md",
     "sandbox/методы и подходы в time management.md",
     "sandbox/Kelly McGonigal.md",
-    "sandbox/избавиться от стресса.md",
-    "_checklists/Связывайте заметки друг с другом.md"
+    "sandbox/избавиться от стресса.md"
   ]
 }

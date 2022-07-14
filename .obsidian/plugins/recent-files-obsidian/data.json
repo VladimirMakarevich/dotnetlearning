@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 daily notes",
+      "path": "daily/00 daily notes.md"
+    },
+    {
+      "basename": "$3daily_template",
+      "path": "_templates/$3daily_template.md"
+    },
+    {
       "basename": "$how to - guides",
       "path": "_utils/$how to - guides.md"
     },

@@ -2,6 +2,8 @@
   "sidebarCommands": [],
   "hiddenCommands": [
     "Manage workspace layouts",
-    "Open quick switcher"
+    "Review flashcards",
+    "Templater",
+    "Advanced Tables Toolbar"
   ]
 }

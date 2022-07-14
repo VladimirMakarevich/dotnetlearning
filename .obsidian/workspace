@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a1eb5252f472b0",
+        "id": "a481231b607b3de0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -168,8 +168,9 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "c0a1eb5252f472b0",
+  "active": "a481231b607b3de0",
   "lastOpenFiles": [
+    "sandbox/00 time management.md",
     "daily/2022-07-14.md",
     "2022-07-14.md",
     "daily/00 daily notes.md",
@@ -178,7 +179,6 @@
     "_utils/Как настроить мобильное (и на планшете) приложение (в платной подписке sync).md",
     "_utils/$english_dictionary.md",
     "_utils/$hot_keys.md",
-    "sandbox/00 time management.md",
     "_utils/как внести изменения сразу во множество заметок.md"
   ]
 }

@@ -129,14 +129,6 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "c755f38603990cb5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       },

@@ -19,7 +19,7 @@
         "default": "git pull"
       },
       "shells": {},
-      "alias": "",
+      "alias": "git pull",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -38,7 +38,7 @@
         "default": "git add -A"
       },
       "shells": {},
-      "alias": "",
+      "alias": "git add",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -57,7 +57,7 @@
         "default": "git commit -m \"update notes\""
       },
       "shells": {},
-      "alias": "",
+      "alias": "git commit",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -76,7 +76,7 @@
         "default": "git push"
       },
       "shells": {},
-      "alias": "",
+      "alias": "git push",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

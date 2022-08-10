@@ -339,5 +339,41 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-shellcommands:shell-command-1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F6"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F5"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F7"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-3": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F8"
+    }
   ]
 }

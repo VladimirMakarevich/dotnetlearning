@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee480af1265fd9af",
+        "id": "3538c4b189078027",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_utils/как внести изменения сразу во множество заметок.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#review",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_utils/как внести изменения сразу во множество заметок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,11 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_utils/как внести изменения сразу во множество заметок.md"
+              }
             }
           },
           {
-            "id": "acec8c6e6eb5d40b",
+            "id": "a312e27d06456d26",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -143,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_utils/как внести изменения сразу во множество заметок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +169,17 @@
     "width": 278.70001220703125,
     "collapsed": true
   },
-  "active": "ee480af1265fd9af",
+  "active": "a312e27d06456d26",
   "lastOpenFiles": [
-    "daily/2022-07-14.md",
-    "sandbox/00 time management.md",
-    "2022-07-14.md",
-    "daily/00 daily notes.md",
-    "_templates/$3daily_template.md",
+    "_utils/как внести изменения сразу во множество заметок.md",
+    "_utils/$tags.md",
     "_utils/$how to - guides.md",
-    "_utils/Как настроить мобильное (и на планшете) приложение (в платной подписке sync).md",
+    "_utils/$getting started.md",
     "_utils/$english_dictionary.md",
     "_utils/$hot_keys.md",
-    "_utils/как внести изменения сразу во множество заметок.md"
+    "sandbox/методы и подходы в time management.md",
+    "sandbox/избавиться от стресса.md",
+    "sandbox/Kelly McGonigal.md",
+    "sandbox/00 time management.md"
   ]
 }

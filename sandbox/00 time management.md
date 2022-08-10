@@ -24,7 +24,6 @@ aliases:
 
 `**keywords:**`
 
-#review
 #timemanagement
 
 ---

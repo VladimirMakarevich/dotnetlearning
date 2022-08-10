@@ -314,5 +314,30 @@
       ],
       "key": "F1"
     }
+  ],
+  "outgoing-links:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F10"
+    }
+  ],
+  "outgoing-links:open-for-current": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F11"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
   ]
 }

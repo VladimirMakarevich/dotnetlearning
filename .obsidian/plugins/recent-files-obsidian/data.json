@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "00 time management",
-      "path": "sandbox/00 time management.md"
+      "basename": "как внести изменения сразу во множество заметок",
+      "path": "_utils/как внести изменения сразу во множество заметок.md"
     },
     {
-      "basename": "00 daily notes",
-      "path": "daily/00 daily notes.md"
-    },
-    {
-      "basename": "$3daily_template",
-      "path": "_templates/$3daily_template.md"
+      "basename": "$tags",
+      "path": "_utils/$tags.md"
     },
     {
       "basename": "$how to - guides",
       "path": "_utils/$how to - guides.md"
+    },
+    {
+      "basename": "$getting started",
+      "path": "_utils/$getting started.md"
     },
     {
       "basename": "$english_dictionary",
@@ -25,20 +25,36 @@
       "path": "_utils/$hot_keys.md"
     },
     {
-      "basename": "как внести изменения сразу во множество заметок",
-      "path": "_utils/как внести изменения сразу во множество заметок.md"
-    },
-    {
       "basename": "методы и подходы в time management",
       "path": "sandbox/методы и подходы в time management.md"
+    },
+    {
+      "basename": "избавиться от стресса",
+      "path": "sandbox/избавиться от стресса.md"
     },
     {
       "basename": "Kelly McGonigal",
       "path": "sandbox/Kelly McGonigal.md"
     },
     {
-      "basename": "избавиться от стресса",
-      "path": "sandbox/избавиться от стресса.md"
+      "basename": "00 time management",
+      "path": "sandbox/00 time management.md"
+    },
+    {
+      "basename": "$1simple_note_template",
+      "path": "_templates/$1simple_note_template.md"
+    },
+    {
+      "basename": "$0common_template",
+      "path": "_templates/$0common_template.md"
+    },
+    {
+      "basename": "00 daily notes",
+      "path": "daily/00 daily notes.md"
+    },
+    {
+      "basename": "$3daily_template",
+      "path": "_templates/$3daily_template.md"
     },
     {
       "basename": "Связывайте заметки друг с другом",
@@ -73,20 +89,8 @@
       "path": "_checklists/@how to work with notes checklist.md"
     },
     {
-      "basename": "$1simple_note_template",
-      "path": "_templates/$1simple_note_template.md"
-    },
-    {
-      "basename": "$0common_template",
-      "path": "_templates/$0common_template.md"
-    },
-    {
       "basename": "$2MOC",
       "path": "_templates/$2MOC.md"
-    },
-    {
-      "basename": "$tags",
-      "path": "_utils/$tags.md"
     },
     {
       "basename": "presentation NOTES",
